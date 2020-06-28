@@ -1,0 +1,9346 @@
+[
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "condition 1",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "condition 2",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "blk verify",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": "",
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": "",
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.017064,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.011131,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.000586,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.009999,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 11.040726,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.008209,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 9.251076,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.00973,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.050684,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.004342,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.428172,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.05 uog3/4",
+    "Dilution Factor": 200,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.007469,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 10.088736,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.005747,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 9.402447,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.009506,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.029287,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.007343,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.186501,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.1 uog3/4",
+    "Dilution Factor": 100,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.008331,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 9.172412,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.007714,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 9.046561,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.009087,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.016907,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.00808,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.365232,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.25 uog3/4",
+    "Dilution Factor": 40,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.008123,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 9.241288,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.007895,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 9.059087,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.009291,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.013105,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.008361,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.58455,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "0.5 uog3/4",
+    "Dilution Factor": 20,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.008789,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 9.611647,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.008973,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 9.537168,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.009667,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.0112,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.008622,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.712701,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "1 uog3/4",
+    "Dilution Factor": 10,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.009076,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 10.100616,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.009805,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 9.702884,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.010164,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.010619,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.009317,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 10.226507,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5 uog3/uog4",
+    "Dilution Factor": 2,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.009474,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 9.852966,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.00987,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 9.583908,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.009916,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.010956,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.010146,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.947777,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "10 uog3/uog4",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.009377,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 50.025629,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.050429,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 50.099605,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.050613,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.052709,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.050009,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 51.081415,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "50 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.050154,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.01586,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.249922,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.015137,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.249879,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.249413,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000012,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.031624,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "250 uog3",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000004,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.350476,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.009142,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.09587,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000386,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.007459,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000963,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.422637,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000473,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.351177,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.008187,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.093054,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000765,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.007367,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000104,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.332676,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000466,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.37889,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.009063,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.099793,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000828,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.007364,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000457,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.23807,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000471,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 4.997806,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.049275,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 4.727112,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.050852,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.050125,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.004824,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 5.051196,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.004716,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.402199,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.008937,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.09424,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000819,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006711,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000172,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.260259,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000488,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.418899,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.008391,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.119481,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000683,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.007189,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000738,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.186075,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000469,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.399803,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.008388,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.091147,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000947,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006978,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000574,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.1733,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00048,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.41489,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.009077,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.075789,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001036,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.008598,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.001174,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.134492,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000511,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.837506,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.805992,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 3.813219,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.166731,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.06644,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.135573,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.515802,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.139073,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.225318,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.402193,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.346196,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.744499,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.82103,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.068176,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 8.852565,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0001",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.0005,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.063097,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.378249,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.249094,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.72638,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.791572,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.066602,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 8.664296,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0001 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.0005,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.338879,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.089477,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.289448,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.684024,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.955525,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.084666,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.850216,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0002",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000353,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.911022,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.213319,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.308046,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.820073,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.872197,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.071017,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.733683,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0003",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000499,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.952586,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.964419,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.224098,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.824439,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.540145,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.075868,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.784977,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0004",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000461,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.818178,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.05761,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.263194,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.947912,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.718071,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.078075,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 84.168248,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0005",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000492,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.004755,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.301458,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.2785,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.810311,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.054556,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.098499,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 101.588738,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0006",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000491,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.224303,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.808514,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.21124,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.899062,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.940077,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.110496,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 142.707814,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0007",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000256,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.645599,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.252251,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.82139,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.741576,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.930506,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.101709,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 104.221617,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0008",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000404,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.269894,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.673559,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.259139,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.64234,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.417293,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.064029,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 19.227697,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0009",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000481,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.164411,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.267512,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.294388,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.615529,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.947794,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.076782,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.361028,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0010",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000481,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.946803,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.792644,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.311126,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.518298,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.864269,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.061228,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.072758,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0011",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000503,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.258947,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.434562,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.373206,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.62584,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.873595,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.065324,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 8.861133,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0012",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.000457,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.041563,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.536241,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.295295,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.844935,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.937661,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.094803,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 118.437655,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0013",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000493,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.860115,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.501763,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.345222,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.822382,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.060938,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.092204,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 377.86489,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0014",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000466,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.199661,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.672331,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.358311,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.86732,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.200709,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.105162,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 341.857422,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0015",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000446,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.974824,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.624546,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.399375,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.795915,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.070818,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.102226,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 499.859664,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0016",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000461,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.941734,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.483196,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.34118,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.603301,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.093455,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.059372,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 11.825393,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0017",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000464,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.68147,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.732019,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.323159,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.675951,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.981541,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.064807,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 8.790764,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0018",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000527,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.428085,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.215294,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.367366,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.563341,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.876485,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.054548,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 8.635369,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0019",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000515,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.425629,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.645098,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.342638,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.91837,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.587312,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.071556,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.176978,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0020",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000518,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.88192,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.388926,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.308246,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.027475,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.009654,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.084424,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 71.48162,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0021",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00051,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.231615,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.02042,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.035938,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001244,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006645,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000093,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.110775,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000545,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.215514,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.010239,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.04944,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001143,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006699,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000364,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.124861,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000546,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.262569,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.005688,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.049789,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001137,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.00678,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000157,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.064578,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000546,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 4.876468,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.05004,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 4.763048,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.048952,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.050174,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.004913,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 4.942872,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.004588,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.940599,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.075754,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.179791,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000319,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.011775,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000977,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.170201,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000436,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.270485,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.004712,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.042949,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001171,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006715,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000484,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.085293,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000526,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.268694,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.005658,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.043156,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.00116,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006866,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000009,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.060425,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000544,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.32211,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.006976,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.044946,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001095,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.00787,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000267,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.081343,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000527,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.850495,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.790699,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 3.825614,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.146013,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.037477,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.135948,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.515979,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.13596,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.812909,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.337895,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.286509,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.959541,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.862723,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.08124,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 222.434136,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0022",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000318,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.739368,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.326945,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.228813,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.920967,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.837636,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.080775,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 216.623214,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0022 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000411,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.256173,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.197296,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.346198,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.976581,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.993225,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.108445,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 376.001894,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0023",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000454,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.138171,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.807417,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.991407,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.827625,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.987043,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.095951,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 426.660312,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0024",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00046,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.87427,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.641326,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.308023,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.658998,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.410853,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.058442,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.678026,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0025",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000485,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.729782,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.60322,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.326403,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.562695,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.097788,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.060319,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.870638,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0026",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00024,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.525513,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.646067,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.391136,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.662118,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.912493,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.069811,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.607015,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0027",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000481,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.481716,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.277075,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.623406,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.668662,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.519024,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.074247,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.909669,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0028",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000511,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.904184,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.621626,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.393612,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.905083,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.911708,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.082379,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 86.945594,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0029",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000477,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.759261,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 3.832882,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.297793,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.85449,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.105743,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.089443,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 291.263551,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0030",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000327,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.959422,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.728465,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.347407,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.907974,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.007746,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.095229,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 106.360262,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0031",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000464,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.817356,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.592388,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.379534,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.742208,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.146789,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.09589,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 247.917202,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0032",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00047,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.22388,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.181691,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.489734,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.751747,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.663186,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.066808,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 490.950852,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0033",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000481,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.276512,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.804753,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.485682,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.889964,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.856726,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.074032,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 11.528492,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0034",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000465,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.408345,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.819932,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.434232,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.786344,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.898199,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.063353,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.399937,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0035",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000473,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.277068,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.340526,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.382737,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.831618,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.519256,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.069674,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.995673,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0036",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000498,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 5.724976,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.74707,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.359498,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.999429,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.632611,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.088219,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 109.522036,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0037",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000448,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.831793,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.690828,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.347237,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.88567,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.947375,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.089902,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 574.872172,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0038",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000297,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.562585,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.698781,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.273921,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.928241,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.833815,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.083272,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 112.649062,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0039",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000508,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.703204,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.797015,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.328741,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.990937,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.900582,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.101809,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 215.063533,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0040",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000464,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.06309,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.502194,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.339258,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.819886,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.677383,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.062159,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 128.323485,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0041",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000497,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.027423,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.512837,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.258566,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.891349,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.929696,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.067493,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.981883,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0042",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000478,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.249412,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.020385,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.028888,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001262,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006463,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000008,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.092186,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000556,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.240989,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.01283,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.047945,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001103,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006818,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000471,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.113435,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000548,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.266533,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.007068,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.060089,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001172,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.00648,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000373,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.065992,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00053,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 4.810448,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.049233,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 4.659983,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.049948,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.049869,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.004787,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 4.868477,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.004551,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.899823,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.079958,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.175573,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000299,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.011459,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000203,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.295877,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000435,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.264605,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.004285,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.05477,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001032,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006829,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000479,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.127154,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000536,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.284986,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.005887,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.062308,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001101,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006861,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000247,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.085751,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000553,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.350248,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.006296,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.035823,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.00115,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.012427,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000017,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.076551,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00054,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.8273,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.803195,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 3.904485,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.162166,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.050661,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.133194,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.514693,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.135109,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.097535,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.790407,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.578216,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.740047,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.898249,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.063615,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 8.819991,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0043",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000489,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.010567,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.837899,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.573011,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.719831,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.860411,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.056749,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.933613,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0043 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000506,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.861214,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.376718,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.461339,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.787016,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.680974,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.064938,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.98938,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0044",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000502,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.365615,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.848298,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.282414,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.932695,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.810548,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.079902,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 79.729812,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0045",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000513,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.263212,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 3.6734,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.292265,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.072375,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.887462,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.08962,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 247.111576,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0046",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000081,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.31055,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.565019,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.283279,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.963859,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.88505,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.09443,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 449.48587,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0047",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000464,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.208113,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.788923,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.379938,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.820965,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.847077,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.096627,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 446.458757,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0048",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000458,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.561255,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.08386,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.394193,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.756627,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.662661,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.069712,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 37.597817,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0049",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000495,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.350554,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.191763,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.329323,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.685478,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.702762,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.062816,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.886759,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0050",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000508,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.309761,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.310032,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.342673,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.818776,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.844235,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.070189,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.883062,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0051",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000525,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.308398,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.035978,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.40145,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.913635,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.422173,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.071098,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 15.010023,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0052",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000487,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.592666,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.282229,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.272972,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.868231,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.603104,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.081241,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 111.804038,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0053",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000517,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.875392,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.822239,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.335918,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.191814,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.800407,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.105878,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 139.016519,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0054",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000475,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.983284,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.448127,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.32879,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.066334,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.849494,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.103482,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 137.366558,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0055",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00051,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.838948,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.786542,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.549401,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.099137,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.786487,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.094023,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 155.946922,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0056",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000504,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.819986,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 3.04283,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.416222,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.887773,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.680937,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.068804,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 24.981245,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0057",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000496,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.663491,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.509386,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.557834,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.822253,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.96419,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.065737,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.453112,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0058",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000515,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.675838,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.630738,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.578981,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.753408,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.902049,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.068952,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 5.234499,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0059",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000529,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.566869,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.687936,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.55609,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.789941,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.700666,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.076399,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.452013,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0060",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000537,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.802545,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.910762,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.338568,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.063572,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.997752,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.087006,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 168.376911,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0061",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000485,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.08365,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.548284,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.366498,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.993853,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.124212,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.093498,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 197.532771,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0062",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000446,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.740694,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.290357,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.376193,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.021615,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.018956,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.102312,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 199.116363,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0063",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000361,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.251276,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.009462,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.032245,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001219,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006366,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000846,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.199421,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000554,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.248734,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.003287,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.033552,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.00109,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006486,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000301,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.169955,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000536,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.244625,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.001184,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.050133,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001082,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006445,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000402,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.097466,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000537,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 4.842747,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.04948,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 4.715816,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.050181,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.049437,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.004811,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 5.057767,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.004605,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.853008,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.079345,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.18558,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000398,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.011761,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000191,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.042119,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magic rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000423,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.275066,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.005411,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.04233,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001099,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006483,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000143,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.099185,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000536,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.271801,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.006792,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.037171,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.00105,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006702,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000319,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.075708,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000549,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.344403,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.007799,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.047834,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001175,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.007645,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000149,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.071831,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "Blank",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000538,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.667021,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.799524,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 3.863657,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.132382,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.041661,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.133562,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.332232,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "QM-S Q1807",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.134364,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.055134,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.303155,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.370358,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.89641,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.094256,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.09409,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 221.146286,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0064",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000496,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.056225,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.353131,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.31483,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.877009,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.094211,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.097224,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 221.726388,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0064 DUP",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000489,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.69563,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.207008,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.378503,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.725849,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.909633,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.068596,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 24.334795,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0065",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000504,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.836741,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.025656,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.47783,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.840443,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.999584,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.077815,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.518218,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0066",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000495,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.011119,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 5.545201,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.551516,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.640321,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 1.009744,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.076354,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 9.075543,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0067",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000482,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.627146,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.791453,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.416586,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.722358,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.667344,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.073411,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 24.605668,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0068",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000507,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.81358,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.234129,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.311623,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.893081,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.677472,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.092585,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 157.714753,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0069",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000462,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.801847,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.06378,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.300231,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.79588,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.813476,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.103836,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 286.785241,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0070",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000445,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.988594,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.615851,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.256224,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.295989,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.927478,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.112228,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 155.943358,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0071",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000504,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.089718,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.998052,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.315496,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.877221,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.935476,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.101638,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 362.338127,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0072",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.00051,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.864282,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.154698,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.311887,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.97476,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.848863,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.074018,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 19.032811,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0073",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000531,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.787553,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.247145,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.334296,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.861369,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.827106,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.066152,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 7.000277,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0074",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000533,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.531652,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.867435,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.328743,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.868358,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.677403,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.064954,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.484502,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0075",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000507,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.576013,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.941023,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.26315,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.142008,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.559129,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.066054,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 6.11048,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0076",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000462,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.550669,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.729232,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.312728,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.378755,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.794219,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.08749,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 86.489947,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0077",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.0005,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.749045,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.267566,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.259727,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.139695,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.671858,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.088603,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 221.01186,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0078",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000487,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.839465,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.468335,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.602247,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.957893,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.722841,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.107824,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 447.484003,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0079",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000418,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 1.7196,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 2.008353,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.385244,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 1.078707,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.757045,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.104486,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 566.781408,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0080",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000478,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 2.269318,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 1.70721,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.507338,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.890815,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.837291,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.099084,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 248.746186,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "20-046622-0081",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000438,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.264214,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.00258,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.038626,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001232,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006342,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.000135,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.260511,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000557,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.238808,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.004993,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.044489,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000982,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006519,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000285,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.174685,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000557,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.245218,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.00525,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.037276,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001082,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006479,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000432,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.133544,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000551,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 4.92212,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.049168,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 4.717479,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": 0.050195,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.049748,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.004809,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 4.977113,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "5/50 ppb",
+    "Dilution Factor": 1,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": 0.004613,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.851391,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": 0.058563,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.209047,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.000375,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.011136,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.001011,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 1.186984,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "magc rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000427,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.296609,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.007907,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.032695,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.00114,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006719,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": -0.000759,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.124316,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000538,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mn",
+    "Mass": 55,
+    "Concentration": 0.27784,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Fe",
+    "Mass": 56,
+    "Concentration": -0.008655,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Co",
+    "Mass": 59,
+    "Concentration": 0.044906,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Cu",
+    "Mass": 65,
+    "Concentration": -0.001206,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Zn",
+    "Mass": 66,
+    "Concentration": 0.006598,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Se",
+    "Mass": 78,
+    "Concentration": 0.00018,
+    "Units": "ppm"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Mo",
+    "Mass": 95,
+    "Concentration": 0.129715,
+    "Units": "ppb"
+  },
+  {
+    "Sample Name": "rinse",
+    "Dilution Factor": 50,
+    "Analyte": "Pb",
+    "Mass": 208,
+    "Concentration": -0.000557,
+    "Units": "ppm"
+  }
+]

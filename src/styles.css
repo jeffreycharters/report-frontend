@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+.csv-input {
+  padding: 10px;
+  display: block;
+  margin: 15px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.blankTable td {
+  border-bottom: 1px solid black;
+  padding: 1px 3px;
+  text-align: center;
+  width: 75px;
+}
+
+.colouredRow {
+  background-color: gainsboro;
+}
+
+.firstCol {
+  text-align: left !important;
+  width: 130px !important;
+}
+
+.calTable, .sampleTable, .blankTable, .RMTable {
+  width: 800px;
+  border-collapse: collapse;
+}
+
+.calTable td, .sampleTable td, .RMTable td {
+  border-bottom: 1px solid black;
+  padding: 2px 4px;
+  text-align: center;
+  width: 75px;
+  vertical-align: middle;
+}
+
+.calTable th, .sampleTable th, .blankTable th, .RMTable th {
+  border-bottom: 2px solid black;
+}
+
+.headerItem {
+  font-weight: bold;
+  padding: 10px;
+}
+
+.sampleFail {
+  background-color: mistyrose;
+  color: firebrick;
+}
+
+.sampleNeutral {
+  background-color: gainsboro;
+  color: darkslategray;
+}
+
+.samplePass {
+  background-color: honeydew;
+  color: darkgreen;
+}
+
+.calTable tr:nth-child(even) {
+  background-color: gainsboro
+}
+
+.thickBottomBorder {
+  border-bottom: 2px solid black;
+}
