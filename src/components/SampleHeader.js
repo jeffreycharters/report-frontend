@@ -8,7 +8,7 @@ const SampleHeader = ({ elements, units }) => {
       <table className='sampleTable'>
         <tbody>
           <tr>
-            <th className='firstCol'>Sample Type</th>
+            <th className='firstCol'>Sample ID</th>
             {elements.map((e, i) => <th key={e}>{e + ' (' + units[i] + ')'}</th>)}
           </tr>
         </tbody>

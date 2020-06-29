@@ -9,7 +9,7 @@ const Duplicate = ({ data, elements, LOQs, sigFigs, units }) => {
       <table className='RMTable'>
         <thead>
           <tr>
-            <th className='firstCol'>Sample Type</th>
+            <th className='firstCol'>Sample ID</th>
             {elements.map((e, i) => <th key={e}>{e + ' (' + units[i] + ')'}</th>)}
           </tr>
         </thead>
