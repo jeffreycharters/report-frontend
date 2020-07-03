@@ -9,20 +9,32 @@ const Blank = ({ data, method, blank }) => {
         <thead>
           <tr>
             <th className='firstCol'>Sample Type</th>
-            {method.elements.map((e, i) => <th key={e}>{e + ' (' + method.units[i] + ')'}</th>)}
+            {method.elements.map((e, i) =>
+              <th key={e}>
+                {e + ' (' + method.units[i] + ')'}
+              </th>
+            )}
           </tr>
         </thead>
 
         <tbody>
           <tr>
             <td className='firstCol'>{data.id}</td>
-            {data.values.map(v => <td key={v}>{dataUtils.roundToSigFigs(v, method.sigFigs)}</td>)}
+            {data.values.map(v =>
+              <td key={v}>
+                {dataUtils.roundToSigFigs(v, method.sigFigs)}
+              </td>
+            )}
           </tr>
           <tr>
-            <td className='firstCol'>&lt; LOQ</td>
-            {data.values.map((v, idx) => {
-              const passes = v < blank.LOQs[idx]
-              return <td key={v} className={passes ? 'samplePass' : 'sampleFail'}>{passes ? 'Pass' : 'Check'}</td>
+            <td className='firstCol'>Below LOQ</td>
+            {data.values.map((v, i) => {
+              const hasLOQ = blank.LOQs[i]
+              const passes = v < blank.LOQs[i]
+              return <td key={v}
+                className={hasLOQ ? passes ? 'samplePass' : 'sampleFail' : 'sampleNeutral'}>
+                {hasLOQ ? passes ? 'Pass' : 'Check' : '- - -'}
+              </td>
             })
             }
           </tr>

@@ -29,11 +29,11 @@ const App = ({ data }) => {
     blanks: [
       {
         name: 'Serum Blank',
-        LOQs: [0.9, 0.013, 0.3, 0.0008, 0.0011, 0.007, 1, 0.001]
+        LOQs: [0.9, 0.013, 0.3, 0.0008, 0.0011, 0.007, 1, null]
       },
       {
         name: 'Blood Blank',
-        LOQs: [Infinity, Infinity, Infinity, Infinity, Infinity, 0.029, Infinity, 0.001]
+        LOQs: [null, null, null, null, null, 0.029, null, 0.001]
       }
     ],
     duplicateTolerance: 15,
@@ -41,13 +41,13 @@ const App = ({ data }) => {
     sigFigs: 3,
     referenceMaterials: [{
       name: 'QM-S Q1807',
-      rangesLow: [2.6, 0.7, 3.7, 0.9, 0.9, 0.1, 1.0, -Infinity],
-      rangesHigh: [3.1, 1.0, 4.2, 1.2, 1.2, 0.15, 1.7, Infinity]
+      rangesLow: [2.6, 0.7, 3.7, 0.9, 0.9, 0.1, 1.0, null],
+      rangesHigh: [3.1, 1.0, 4.2, 1.2, 1.2, 0.15, 1.7, null]
     },
     {
       name: 'QM-B Q1720',
-      rangesLow: [-Infinity, -Infinity, -Infinity, -Infinity, -Infinity, 0.15, -Infinity, 0.10],
-      rangesHigh: [Infinity, Infinity, Infinity, Infinity, Infinity, 0.20, Infinity, 0.14]
+      rangesLow: [null, null, null, null, null, 0.15, null, 0.10],
+      rangesHigh: [null, null, null, null, null, 0.20, null, 0.14]
     }
     ]
   }

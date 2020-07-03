@@ -12,24 +12,39 @@ const Duplicate = ({ data, method }) => {
         <thead>
           <tr>
             <th className='firstCol'>Sample ID</th>
-            {method.elements.map((e, i) => <th key={e}>{e + ' (' + data.units[i] + ')'}</th>)}
+            {method.elements.map((e, i) =>
+              <th key={e}>
+                {e + ' (' + data.units[i] + ')'}
+              </th>
+            )}
           </tr>
         </thead>
 
         <tbody>
           <tr>
             <td className='firstCol'>{data.id}</td>
-            {data.values.map(v => <td key={v}>{dataUtils.roundToSigFigs(v, sigFigs)}</td>)}
+            {data.values.map(v =>
+              <td key={v}>
+                {dataUtils.roundToSigFigs(v, sigFigs)}
+              </td>
+            )}
           </tr>
 
           <tr className='thickBottomBorder'>
             <td className='firstCol'>{data.id} DUP</td>
-            {data.dupValues.map(v => <td key={v}>{dataUtils.roundToSigFigs(v, sigFigs)}</td>)}
+            {data.dupValues.map(v =>
+              <td key={v}>
+                {dataUtils.roundToSigFigs(v, sigFigs)}
+              </td>
+            )}
           </tr>
 
           <tr>
             <td className='firstCol'>Average</td>
-            {data.values.map((v, idx) => <td key={v}>{dataUtils.roundToSigFigs(((v + data.dupValues[idx]) / 2), sigFigs)}</td>)}
+            {data.values.map((v, idx) =>
+              <td key={v}>
+                {dataUtils.roundToSigFigs(((v + data.dupValues[idx]) / 2), sigFigs)}
+              </td>)}
           </tr>
 
           <tr>
