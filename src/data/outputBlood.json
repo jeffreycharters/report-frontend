@@ -1,0 +1,5442 @@
+[
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "condition 1",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "condition 2",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "blk verify",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": "",
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": "",
+    "units": "ppm"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0,
+    "units": "ppb"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0,
+    "units": "ppm"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0,
+    "units": "ppb"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0,
+    "units": "ppm"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.000512,
+    "units": "ppm"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0,
+    "units": "ppm"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0,
+    "units": "ppb"
+  },
+  {
+    "id": "Cal Blank",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0,
+    "units": "ppm"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.609481,
+    "units": "ppb"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.024692,
+    "units": "ppm"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.525721,
+    "units": "ppb"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.011145,
+    "units": "ppm"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.046949,
+    "units": "ppm"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.007691,
+    "units": "ppm"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 10.036763,
+    "units": "ppb"
+  },
+  {
+    "id": "0.05 uog3/4",
+    "dilutionFactor": 200,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009063,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.89896,
+    "units": "ppb"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.017387,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.489379,
+    "units": "ppb"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.010277,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.026867,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.007476,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 9.981731,
+    "units": "ppb"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009267,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.806201,
+    "units": "ppb"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.015857,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.726434,
+    "units": "ppb"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.010479,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.028049,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.007928,
+    "units": "ppm"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 9.99255,
+    "units": "ppb"
+  },
+  {
+    "id": "0.1 uog3/4",
+    "dilutionFactor": 100,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009641,
+    "units": "ppm"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.478784,
+    "units": "ppb"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.01173,
+    "units": "ppm"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.445373,
+    "units": "ppb"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.009841,
+    "units": "ppm"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.015992,
+    "units": "ppm"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.007444,
+    "units": "ppm"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 9.819063,
+    "units": "ppb"
+  },
+  {
+    "id": "0.25 uog3/4",
+    "dilutionFactor": 40,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009209,
+    "units": "ppm"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.677544,
+    "units": "ppb"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.011034,
+    "units": "ppm"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.755484,
+    "units": "ppb"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.009719,
+    "units": "ppm"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.013081,
+    "units": "ppm"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.008243,
+    "units": "ppm"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 9.89656,
+    "units": "ppb"
+  },
+  {
+    "id": "0.5 uog3/4",
+    "dilutionFactor": 20,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009321,
+    "units": "ppm"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.758498,
+    "units": "ppb"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.010312,
+    "units": "ppm"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.84993,
+    "units": "ppb"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.010136,
+    "units": "ppm"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.011461,
+    "units": "ppm"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.008994,
+    "units": "ppm"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 9.879213,
+    "units": "ppb"
+  },
+  {
+    "id": "1 uog3/4",
+    "dilutionFactor": 10,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009507,
+    "units": "ppm"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.745088,
+    "units": "ppb"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.010005,
+    "units": "ppm"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.864123,
+    "units": "ppb"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.009896,
+    "units": "ppm"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.010493,
+    "units": "ppm"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.009429,
+    "units": "ppm"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 9.868444,
+    "units": "ppb"
+  },
+  {
+    "id": "5 uog3/uog4",
+    "dilutionFactor": 2,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009421,
+    "units": "ppm"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 10.052798,
+    "units": "ppb"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.009963,
+    "units": "ppm"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 9.809528,
+    "units": "ppb"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.009985,
+    "units": "ppm"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.010817,
+    "units": "ppm"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.010046,
+    "units": "ppm"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 10.034468,
+    "units": "ppb"
+  },
+  {
+    "id": "10 uog3/uog4",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.009527,
+    "units": "ppm"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 50.002901,
+    "units": "ppb"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.049105,
+    "units": "ppm"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 50.045388,
+    "units": "ppb"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.0493,
+    "units": "ppm"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.051405,
+    "units": "ppm"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.050023,
+    "units": "ppm"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 51.124634,
+    "units": "ppb"
+  },
+  {
+    "id": "50 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.050125,
+    "units": "ppm"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.00665,
+    "units": "ppb"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.25018,
+    "units": "ppm"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.01443,
+    "units": "ppb"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.250142,
+    "units": "ppm"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.249681,
+    "units": "ppm"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000008,
+    "units": "ppm"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.040406,
+    "units": "ppb"
+  },
+  {
+    "id": "250 uog3",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000004,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.032703,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": -0.000876,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.022621,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000797,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.008291,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000644,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.527692,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000046,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.007647,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": -0.001028,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.023259,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000008,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007861,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000699,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.239929,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000063,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.017394,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": -0.002299,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.016431,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.000109,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007814,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000666,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.203308,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000081,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 4.989522,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.050213,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 4.944144,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.051496,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.051452,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.005049,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 5.100919,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.004715,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.052764,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": -0.002668,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.016619,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.000214,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.006918,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000332,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.195007,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000075,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.039469,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": -0.000616,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.022556,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.000162,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007945,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.000033,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.142354,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000077,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.002797,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": -0.000394,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.026994,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.00008,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007774,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000246,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.069122,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.00007,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.193442,
+    "units": "ppb"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": -0.000704,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.033428,
+    "units": "ppb"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.00034,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.008466,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.00037,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.102458,
+    "units": "ppb"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.00031,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.617508,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.802563,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 3.958394,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.157484,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.062071,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.132707,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 1.538956,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.137449,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.401278,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.448756,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.552931,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.197987,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.108811,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.138294,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 7.122762,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045327-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000054,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.298395,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.452414,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.609935,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.200611,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.094617,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.135513,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 7.062274,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045327-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000015,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 9.724934,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.58636,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 4.871633,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.993973,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.68079,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.193419,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 2.563862,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045329-0002",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.00044,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.559946,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 4.263184,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.74874,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.757918,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.636024,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.074886,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 106.268036,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045331-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000238,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.06701,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 5.632749,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 16.494771,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.76258,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.691027,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.084496,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 12.167953,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045429-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000056,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 7.065409,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 4.789488,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.482453,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.82631,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.688537,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.205981,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 4.387028,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045430-0002",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000012,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.394059,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 3.282065,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.719868,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.936497,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.234145,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.064012,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 19.155397,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045618-0002",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000204,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.304809,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.966864,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.821038,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.470386,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.745976,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.157921,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 69.064005,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045637-0003",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000015,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 4.284587,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 6.955981,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.246049,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.371571,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.545484,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.153615,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 23.78502,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045828-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000641,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 3.326152,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 3.840051,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.538814,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.251244,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.509518,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.153873,
+    "units": "ppm"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 5.693085,
+    "units": "ppb"
+  },
+  {
+    "id": "20-045828-0002",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000468,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.544702,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.839751,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 3.499642,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.66326,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.848959,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.113952,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 2.949523,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046031-0002",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000034,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.300696,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.977653,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.838796,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.523791,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.89677,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.058063,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 16.061299,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046045-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000079,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.628491,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.929988,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.35291,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.590243,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.860178,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.041246,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 27.53231,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046049-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000001,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.678326,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 3.684732,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 3.010669,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.471681,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.462824,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.089941,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 1.449679,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046055-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000203,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.20784,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.784998,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.425769,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.003976,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.089731,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.15221,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 99.966676,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046063-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000216,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.103529,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.344554,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 2.034887,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.392177,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.02642,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.180446,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 79.065826,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046064-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000084,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.053452,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.035542,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.409401,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.210821,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.171359,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.140168,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 80.096647,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046065-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000145,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.769472,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.222529,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.019175,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.212366,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.47369,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.156845,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 17.97575,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046068-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000041,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 89.462935,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 8.800819,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.475106,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.361241,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 2.765677,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.122938,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 35.185977,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0002",
+    "dilutionFactor": 99,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000047,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.220746,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 3.350166,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.471186,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.946412,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.547341,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.144589,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 6.615737,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046071-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.00002,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.796356,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.320518,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 8.420737,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.027355,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.562747,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.139297,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 8.257069,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046072-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000022,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.058787,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.039343,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.757701,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.160644,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.54519,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.213004,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 9.10435,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046074-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000011,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.033197,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.020315,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.008769,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.000101,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007497,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.00025,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.078571,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000076,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.028078,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.01519,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.009182,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000023,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007896,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.000272,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.059425,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000062,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.00743,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.012358,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.039702,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000374,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.008289,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.00043,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.059113,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.00007,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 4.975266,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.049049,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 4.794923,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.048895,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.049514,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.004827,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 4.943685,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.004651,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.05424,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.008795,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.050428,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000597,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.008392,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000533,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.242701,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000022,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.019336,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.008508,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.045589,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000294,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.008452,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.000816,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.103394,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000059,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.034844,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.00642,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.031714,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000259,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.008119,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000406,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.104786,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000066,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.135245,
+    "units": "ppb"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.005499,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.030736,
+    "units": "ppb"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000237,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.019939,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000206,
+    "units": "ppm"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.101004,
+    "units": "ppb"
+  },
+  {
+    "id": "Serum Blank",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000048,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.725244,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.827248,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 3.905771,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.151216,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.069393,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.136966,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 1.548405,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-S Q1807",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.137708,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.595175,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.509239,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.026624,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.169913,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.571628,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.156067,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 8.575676,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046076-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000118,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.387222,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.57163,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.961272,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.13962,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.561849,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.149275,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 8.660288,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046076-0001 DUP",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.00011,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.427297,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.336048,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.474884,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.975182,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.455804,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.115332,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 16.97385,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046077-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000015,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.356774,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.511862,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.608978,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.232364,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.793364,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.195086,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 16.528847,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046078-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.00003,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.322408,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 2.173617,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.798258,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.989381,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.8211,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.099226,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 19.238282,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046552-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000013,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.717052,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.976049,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.74977,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.929552,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.651051,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.130285,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 16.740871,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046555-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.00003,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 1.218043,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.806017,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.755429,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.838161,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.749675,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.103231,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 6.647788,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046557-0001",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000017,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.305888,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 1.76668,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.26317,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.781077,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 1.839591,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.091302,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 17.630694,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046564-0002",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000007,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.079342,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.012831,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.005985,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000392,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007942,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000781,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.049891,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000079,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.031983,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.009011,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.015655,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000362,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007928,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.000008,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.049189,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000066,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.042159,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.006733,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.00999,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000235,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007789,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.000602,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.057584,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000068,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 4.969223,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.048759,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 4.811436,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.049382,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.049366,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.00485,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 4.978897,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.004628,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.002193,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.004428,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.065081,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000385,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.008069,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.00017,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.154637,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000037,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.026666,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.002754,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.024311,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.00028,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007777,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000105,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.105469,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000054,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.023956,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.002644,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.017152,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000222,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007497,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000394,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.078133,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000059,
+    "units": "ppm"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 2.210021,
+    "units": "ppb"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.209541,
+    "units": "ppm"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.405297,
+    "units": "ppb"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.004617,
+    "units": "ppm"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.045009,
+    "units": "ppm"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.003806,
+    "units": "ppm"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 4.019185,
+    "units": "ppb"
+  },
+  {
+    "id": "Blood Blank",
+    "dilutionFactor": 200,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000168,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 16.474261,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 418.617152,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.342771,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.687884,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 6.088096,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.174252,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 11.891283,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-B Q1720",
+    "dilutionFactor": 200,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.114501,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 16.019189,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 415.009445,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 1.199247,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 1.688732,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 5.994327,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.16575,
+    "units": "ppm"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 10.592554,
+    "units": "ppb"
+  },
+  {
+    "id": "QM-B Q1720 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.112587,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 67.236515,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 395.45663,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.528332,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.384943,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 5.216073,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.221927,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 35.073278,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0001",
+    "dilutionFactor": 200,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.004838,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 62.2345,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 365.45,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.628332,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.344943,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 5.236073,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.227927,
+    "units": "ppm"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 34.278,
+    "units": "ppb"
+  },
+  {
+    "id": "20-046069-0001 DUP",
+    "dilutionFactor": 200,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.006838,
+    "units": "ppm"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.616386,
+    "units": "ppb"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.123051,
+    "units": "ppm"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.132188,
+    "units": "ppb"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.00023,
+    "units": "ppm"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.011247,
+    "units": "ppm"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.001633,
+    "units": "ppm"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.998144,
+    "units": "ppb"
+  },
+  {
+    "id": "magic",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.000005,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.034272,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.016694,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.004702,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.000249,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.00698,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.000271,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.045244,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000104,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": -0.010435,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.020046,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.016485,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.00011,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.006935,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000523,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.023313,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000083,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 5.087896,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.049945,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 4.949265,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.050393,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.050308,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.004819,
+    "units": "ppm"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 5.068457,
+    "units": "ppb"
+  },
+  {
+    "id": "5/50 ppb",
+    "dilutionFactor": 1,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": 0.004744,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.027921,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.006517,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.067186,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": 0.000163,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007887,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": -0.000249,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.207341,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000038,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mn",
+    "mass": 55,
+    "concentration": 0.043664,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Fe",
+    "mass": 56,
+    "concentration": 0.004317,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Co",
+    "mass": 59,
+    "concentration": 0.017689,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Cu",
+    "mass": 65,
+    "concentration": -0.000017,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Zn",
+    "mass": 66,
+    "concentration": 0.007185,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Se",
+    "mass": 78,
+    "concentration": 0.000068,
+    "units": "ppm"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Mo",
+    "mass": 95,
+    "concentration": 0.080706,
+    "units": "ppb"
+  },
+  {
+    "id": "rinse",
+    "dilutionFactor": 50,
+    "analyte": "Pb",
+    "mass": 208,
+    "concentration": -0.000073,
+    "units": "ppm"
+  }
+]

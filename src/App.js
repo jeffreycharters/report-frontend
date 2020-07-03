@@ -1,14 +1,13 @@
 import React, { useEffect } from 'react'
 
 import Blank from './components/Blank'
-import QMS from './components/QMS'
-import QMB from './components/QMB'
 import Sample from './components/Sample'
 import Duplicate from './components/Duplicate'
 import Calibration from './components/Calibration'
 import SampleHeader from './components/SampleHeader'
 import HeaderInfo from './components/HeaderInfo'
-import CCV from './components/CCV'
+import CheckStd from './components/CheckStd'
+import ReferenceMaterial from './components/ReferenceMaterial'
 
 const App = ({ data }) => {
 
@@ -16,84 +15,115 @@ const App = ({ data }) => {
     document.title = 'CHEM-162 Reporting Summary'
   }, []);
 
-  const elements = ["Mn", "Fe", "Co", "Cu", "Zn", "Se", "Mo", "Pb"]
-  const units = ["ppb", "ppm", "ppb", "ppm", "ppm", "ppm", "ppb", "ppm"]
-  const LOQs = [0.3, 0.0002, 0.4, 0.001, 0.0002, 0.0001, 0.3, 0.0003]
-  const calStandards = [0, 0.05, 0.1, 0.25, 0.5, 1, 5, 10, 50, 250]
-  const ccvValues = [5, 50, 5, 50, 50, 5, 5, 5]
-  const sigFigs = 3
+  const method = {
+    name: "CHEM-162 Minerals in Serum",
+    elements: ["Mn", "Fe", "Co", "Cu", "Zn", "Se", "Mo", "Pb"],
+    units: ["ppb", "ppm", "ppb", "ppm", "ppm", "ppm", "ppb", "ppm"],
+    checkStds: [
+      {
+        name: '5/50 ppb',
+        expectedValues: [5, 50, 5, 50, 50, 5, 5, 5],
+        tolerance: 0.1
+      }
+    ],
+    blanks: [
+      {
+        name: 'Serum Blank',
+        LOQs: [0.9, 0.013, 0.3, 0.0008, 0.0011, 0.007, 1, 0.001]
+      },
+      {
+        name: 'Blood Blank',
+        LOQs: [Infinity, Infinity, Infinity, Infinity, Infinity, 0.029, Infinity, 0.001]
+      }
+    ],
+    duplicateTolerance: 15,
+    calStandards: [5, 50, 5, 50, 50, 5, 5, 5],
+    sigFigs: 3,
+    referenceMaterials: [{
+      name: 'QM-S Q1807',
+      rangesLow: [2.6, 0.7, 3.7, 0.9, 0.9, 0.1, 1.0, -Infinity],
+      rangesHigh: [3.1, 1.0, 4.2, 1.2, 1.2, 0.15, 1.7, Infinity]
+    },
+    {
+      name: 'QM-B Q1720',
+      rangesLow: [-Infinity, -Infinity, -Infinity, -Infinity, -Infinity, 0.15, -Infinity, 0.10],
+      rangesHigh: [Infinity, Infinity, Infinity, Infinity, Infinity, 0.20, Infinity, 0.14]
+    }
+    ]
+  }
 
-  const sampleRegEx = new RegExp('[0-9]{2}-[0-9]{6}-[0-9]{4}')
+  const sampleIdRegEx = new RegExp('[0-9]{2}-[0-9]{6}-[0-9]{4}')
 
   return (
     <div>
-      <HeaderInfo />
+      <HeaderInfo method={method} />
       {data[0].id && data.map((d, idx) => {
-        if (d.id === 'Blank' && idx < 12) {
-          const calData = data.slice(idx, idx + calStandards.length)
+
+        const sampleBlank = method.blanks.find(b => b.name === d.id)
+        const checkStd = method.checkStds.find(c => c.name === d.id)
+        const referenceMaterial = method.referenceMaterials.find(r => r.name === d.id)
+        const duplicate = d.id.match(sampleIdRegEx) && d.dupValues
+        const sample = d.id.match(sampleIdRegEx)
+
+        if (d.id === 'Cal Blank') {
+          const calData = data.slice(idx, idx + method.calStandards.length)
           return <Calibration
             data={calData}
             key={idx}
-            elements={elements} />
+            elements={method.elements} />
         }
-        if (d.id === 'Blank' && idx > 12) {
-          return <Blank data={d}
-            key={idx}
-            LOQs={LOQs}
-            elements={elements}
-            sigFigs={sigFigs}
-            units={units} />
-        }
-        else if (d.id === '5/50 ppb') {
-          return <CCV
+        else if (sampleBlank) {
+          return <Blank
             data={d}
             key={idx}
-            ccvValues={ccvValues}
-            elements={elements}
-            sigFigs={sigFigs} />
+            blank={sampleBlank}
+            method={method}
+          />
         }
-        else if (d.id.includes('QM-S')) {
-          return <QMS
+        else if (checkStd) {
+          return <CheckStd
             data={d}
             key={idx}
-            elements={elements}
-            sigFigs={sigFigs}
-            units={units} />
+            checkStd={checkStd}
+            method={method}
+          />
         }
-        else if (d.id.includes('QM-B')) {
-          return <QMB
+        else if (referenceMaterial) {
+          return <ReferenceMaterial
             data={d}
             key={idx}
-            elements={elements}
-            sigFigs={sigFigs}
-            units={units} />
+            method={method}
+            material={referenceMaterial}
+          />
         }
-        else if (d.id.match(sampleRegEx) && d.dupValues) {
+        else if (duplicate) {
           return <Duplicate
             data={d}
             key={idx}
-            elements={elements}
-            LOQs={LOQs}
-            sigFigs={sigFigs}
-            units={units} />
+            method={method}
+          />
         }
-        else if (d.id.match(sampleRegEx)) {
-          if (data[idx - 1] && (!data[idx - 1].id.match(sampleRegEx) || data[idx - 1].dupValues)) {
-            return (<div key={d.id + idx}>
+        else if (sample) {
+          const prevSampleExists = data[idx - 1]
+          const prevSampleIsSample = data[idx - 1].id.match(sampleIdRegEx)
+          const prevSampleIsDup = data[idx - 1].dupValues
+          if (prevSampleExists && (!prevSampleIsSample || prevSampleIsDup)) {
+            return <div key={d.id + idx}>
               <SampleHeader
-                elements={elements}
+                elements={method.elements}
                 key={Date.now()}
-                units={units} />
+                units={d.units} />
 
               <Sample data={d}
                 key={idx}
-                sigFigs={sigFigs}
-                coloured={idx % 2 === 1} /></div>)
+                sigFigs={method.sigFigs}
+                coloured={idx % 2 === 1} />
+            </div>
           }
           return <Sample
             data={d}
             key={idx}
-            sigFigs={sigFigs}
+            sigFigs={method.sigFigs}
             coloured={idx % 2 === 1} />
         }
         return null

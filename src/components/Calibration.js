@@ -24,7 +24,7 @@ const Duplicate = ({ data, elements }) => {
                 if (std.id === '250 uog3' && v < 0.1) {
                   return <td className={i === 0 ? 'firstCol' : ''} key={v + i}> </td>
                 }
-                return <td key={v + i}>{v < 1 ? (v * 1000).toPrecision(4) : v.toPrecision(4)}</td>
+                return <td key={v + i}>{v < 0.1 ? (v * 1000).toPrecision(4) : v.toPrecision(4)}</td>
               }
               )}
             </tr>

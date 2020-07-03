@@ -1,7 +1,9 @@
 import React from 'react'
 import dataUtils from '../utils/dataUtils'
 
-const Duplicate = ({ data, elements, LOQs, sigFigs, units }) => {
+const Duplicate = ({ data, method }) => {
+  const LOQs = method.blanks[0].LOQs
+  const sigFigs = method.sigFigs
 
   return (
     <div>
@@ -10,7 +12,7 @@ const Duplicate = ({ data, elements, LOQs, sigFigs, units }) => {
         <thead>
           <tr>
             <th className='firstCol'>Sample ID</th>
-            {elements.map((e, i) => <th key={e}>{e + ' (' + units[i] + ')'}</th>)}
+            {method.elements.map((e, i) => <th key={e}>{e + ' (' + data.units[i] + ')'}</th>)}
           </tr>
         </thead>
 
@@ -36,7 +38,7 @@ const Duplicate = ({ data, elements, LOQs, sigFigs, units }) => {
               const average = ((v + data.dupValues[i]) / 2)
               const RPD = ((Math.abs(v - data.dupValues[i]) / average * 100).toFixed(1))
               const aboveLOQ = v > LOQs[i]
-              return <td className={aboveLOQ ? RPD < 15 ? 'samplePass' : 'sampleFail' : 'sampleNeutral'} key={v + i}>{RPD}</td>
+              return <td className={aboveLOQ ? RPD < method.duplicateTolerance ? 'samplePass' : 'sampleFail' : 'sampleNeutral'} key={v + i}>{RPD}</td>
             })
             }
           </tr>

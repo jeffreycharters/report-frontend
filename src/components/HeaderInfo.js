@@ -1,8 +1,8 @@
 import React from 'react'
 
-const HeaderInfo = () => {
+const HeaderInfo = ({ method }) => {
   return <div>
-    <h1>Sequence Information</h1>
+    <h1>Sequence Information - {method.name}</h1>
     <div className='headerItem'>Analyst: _________________________</div>
     <div className='headerItem'>Analysis Date: _________________________</div>
     <div className='headerItem'>Sequence ID: ______________________________________</div>

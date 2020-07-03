@@ -1,7 +1,11 @@
 import React from 'react'
 import dataUtils from '../utils/dataUtils'
 
-const CCV = ({ data, ccvValues, elements, sigFigs }) => {
+const CheckStd = ({ data, checkStd, method }) => {
+
+  const expectedValues = checkStd.expectedValues
+  const tolerance = checkStd.tolerance
+  const sigFigs = method.sigFigs
 
   return (
     <div>
@@ -10,7 +14,7 @@ const CCV = ({ data, ccvValues, elements, sigFigs }) => {
         <thead>
           <tr>
             <th className='firstCol'>Sample Type</th>
-            {elements.map((e, i) => <th key={e}>{e} (ppb)</th>)}
+            {method.elements.map((e, i) => <th key={e}>{e} (ppb)</th>)}
           </tr>
         </thead>
 
@@ -31,7 +35,9 @@ const CCV = ({ data, ccvValues, elements, sigFigs }) => {
               if (v < 1) {
                 v = v * 1000
               }
-              const withinRange = (v > (ccvValues[i] * 0.9)) && (v < (ccvValues[i] * 1.1))
+              const limitLow = expectedValues[i] - (expectedValues[i] * tolerance)
+              const limitHigh = expectedValues[i] + (expectedValues[i] * tolerance)
+              const withinRange = (v > limitLow) && (v < limitHigh)
               return <td className={withinRange ? 'samplePass' : 'sampleFail'} key={v + i}> {withinRange ? 'Yes' : 'No'}</td>
             })
             }
@@ -44,4 +50,4 @@ const CCV = ({ data, ccvValues, elements, sigFigs }) => {
   )
 }
 
-export default CCV
+export default CheckStd

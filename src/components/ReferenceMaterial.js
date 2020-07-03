@@ -1,10 +1,9 @@
 import React from 'react'
 import dataUtils from '../utils/dataUtils'
 
-const QMS = ({ data, elements, sigFigs, units }) => {
-
-  const rangesLow = [2.6, 0.7, 3.7, 0.9, 0.9, 0.1, 1.0, -Infinity]
-  const rangesHigh = [3.1, 1.0, 4.2, 1.2, 1.2, 0.15, 1.7, Infinity]
+const ReferenceMaterial = ({ data, material, method }) => {
+  const rangesLow = material.rangesLow
+  const rangesHigh = material.rangesHigh
 
   return (
     <div>
@@ -13,14 +12,14 @@ const QMS = ({ data, elements, sigFigs, units }) => {
         <thead>
           <tr>
             <th className='firstCol'>Sample Type</th>
-            {elements.map((e, i) => <th key={e}>{e + ' (' + units[i] + ')'}</th>)}
+            {method.elements.map((e, i) => <th key={e}>{e + ' (' + data.units[i] + ')'}</th>)}
           </tr>
         </thead>
 
         <tbody>
           <tr>
             <td className='firstCol'>{data.id}</td>
-            {data.values.map((v, i) => <td key={v + i}>{dataUtils.roundToSigFigs(v, sigFigs)}</td>)}
+            {data.values.map((v, i) => <td key={v + i}>{dataUtils.roundToSigFigs(v, method.sigFigs)}</td>)}
           </tr>
           <tr>
             <td className='firstCol'>Within Range</td>
@@ -38,4 +37,4 @@ const QMS = ({ data, elements, sigFigs, units }) => {
   )
 }
 
-export default QMS
+export default ReferenceMaterial
