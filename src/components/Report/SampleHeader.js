@@ -3,17 +3,17 @@ import React from 'react'
 const SampleHeader = ({ elements, units }) => {
 
   return (
-    <div>
+    <>
       <br />
       <table className='sampleTable'>
-        <tbody>
+        <thead>
           <tr>
             <th className='firstCol'>Sample ID</th>
-            {elements.map((e, i) => <th key={e}>{e + ' (' + units[i] + ')'}</th>)}
+            {elements.map((e, i) => <th key={e} >{e + ' (' + units[i] + ')'}</th>)}
           </tr>
-        </tbody>
+        </thead>
       </table>
-    </div >
+    </>
   )
 }
 

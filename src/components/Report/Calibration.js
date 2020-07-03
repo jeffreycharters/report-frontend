@@ -1,7 +1,8 @@
 import React from 'react'
-import '../styles.css'
 
-const Duplicate = ({ data, elements }) => {
+import dataUtils from '../../utils/dataUtils'
+
+const Duplicate = ({ data, elements, method }) => {
 
   return (
     <div>
@@ -11,7 +12,7 @@ const Duplicate = ({ data, elements }) => {
         <thead>
           <tr>
             <th className='firstCol'>Concentration</th>
-            {elements.map(e => <th key={e}>{e} (ppb)</th>)}
+            {method.elements.map((e, i) => <th key={e}>{e} ({method.units[i]})</th>)}
           </tr>
         </thead>
 
@@ -21,10 +22,7 @@ const Duplicate = ({ data, elements }) => {
             return <tr key={std.id + i}>
               <td className='firstCol'>{std.id}</td>
               {std.values.map((v, i) => {
-                if (std.id === '250 uog3' && v < 0.1) {
-                  return <td className={i === 0 ? 'firstCol' : ''} key={v + i}> </td>
-                }
-                return <td key={v + i}>{v < 0.1 ? (v * 1000).toPrecision(4) : v.toPrecision(4)}</td>
+                return <td key={v + i}>{dataUtils.roundToSigFigs(v, method.sigFigs)}</td>
               }
               )}
             </tr>

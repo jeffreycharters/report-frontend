@@ -21,11 +21,11 @@ const parseJsonData = (output) => {
       units.push(output[i + j].units)
     }
 
-    if (data.length > 1 && output[i].id.match(dupRegEx)) {
+    if (data.length > 1 && output[i].sample_name.match(dupRegEx)) {
       data[data.length - 1].dupValues = values
     } else {
       const sampleObject = {
-        id: output[i].id,
+        id: output[i].sample_name,
         values,
         dupValues: null,
         units

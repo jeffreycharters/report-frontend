@@ -1,9 +1,10 @@
 import React from 'react'
-import dataUtils from '../utils/dataUtils'
+import dataUtils from '../../utils/dataUtils'
 
 const ReferenceMaterial = ({ data, material, method }) => {
   const rangesLow = material.rangesLow
   const rangesHigh = material.rangesHigh
+
 
   return (
     <div>
@@ -14,7 +15,7 @@ const ReferenceMaterial = ({ data, material, method }) => {
             <th className='firstCol'>Sample Type</th>
             {method.elements.map((e, i) =>
               <th key={e}>
-                {e + ' (' + data.units[i] + ')'}
+                {e + ' (' + method.units[i] + ')'}
               </th>
             )}
           </tr>
@@ -25,7 +26,7 @@ const ReferenceMaterial = ({ data, material, method }) => {
             <td className='firstCol'>{data.id}</td>
             {data.values.map((v, i) =>
               <td key={v + i}>
-                {dataUtils.roundToSigFigs(v, method.sigFigs)}
+                {parseFloat(dataUtils.roundToSigFigs(v, method.sigFigs))}
               </td>
             )}
           </tr>

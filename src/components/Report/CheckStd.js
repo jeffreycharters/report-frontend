@@ -1,5 +1,5 @@
 import React from 'react'
-import dataUtils from '../utils/dataUtils'
+import dataUtils from '../../utils/dataUtils'
 
 const CheckStd = ({ data, checkStd, method }) => {
 
