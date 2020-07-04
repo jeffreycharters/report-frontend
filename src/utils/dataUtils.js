@@ -6,18 +6,22 @@ const parseJsonData = (output) => {
 
   const firstElementMass = output[0].mass
   let i = 1;
+  let massesPresent = [output[0].mass]
   while (output[i].mass !== firstElementMass) {
+    massesPresent.push(parseInt(output[i].mass))
     i++;
   }
   const elementCount = i;
+  massesPresent.sort((a, b) => a - b)
 
   for (let i = 0; i < output.length; i += elementCount) {
 
-    let values = []
+    let values = new Array(elementCount)
     let units = []
 
     for (let j = 0; j < elementCount; j++) {
-      values.push(output[i + j].concentration)
+      const findMassIndex = massesPresent.findIndex(m => m === output[i + j].mass)
+      values[findMassIndex] = (output[i + j].concentration)
       units.push(output[i + j].units)
     }
 

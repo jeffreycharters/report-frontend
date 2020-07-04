@@ -25,7 +25,7 @@ const Duplicate = ({ data, method }) => {
             <td className='firstCol'>{data.id}</td>
             {data.values.map(v =>
               <td key={v}>
-                {dataUtils.roundToSigFigs(v, sigFigs)}
+                {v > 1000 ? parseFloat(dataUtils.roundToSigFigs(v, sigFigs)) : dataUtils.roundToSigFigs(v, sigFigs)}
               </td>
             )}
           </tr>
@@ -34,17 +34,20 @@ const Duplicate = ({ data, method }) => {
             <td className='firstCol'>{data.id} DUP</td>
             {data.dupValues.map(v =>
               <td key={v}>
-                {dataUtils.roundToSigFigs(v, sigFigs)}
+                {v > 1000 ? parseFloat(dataUtils.roundToSigFigs(v, sigFigs)) : dataUtils.roundToSigFigs(v, sigFigs)}
               </td>
             )}
           </tr>
 
           <tr>
             <td className='firstCol'>Average</td>
-            {data.values.map((v, idx) =>
-              <td key={v}>
-                {dataUtils.roundToSigFigs(((v + data.dupValues[idx]) / 2), sigFigs)}
-              </td>)}
+            {data.values.map((v, idx) => {
+              const averageValue = (v + data.dupValues[idx]) / 2
+              return <td key={v}>
+                {v > 1000 ? parseFloat(dataUtils.roundToSigFigs(averageValue, sigFigs)) : dataUtils.roundToSigFigs(averageValue, sigFigs)}
+              </td>
+            }
+            )}
           </tr>
 
           <tr>

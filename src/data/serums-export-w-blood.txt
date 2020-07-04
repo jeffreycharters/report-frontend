@@ -63,14 +63,14 @@ rinse,1,Zn,66,,ppm
 rinse,1,Se,78,,ppm
 rinse,1,Mo,95,,ppb
 rinse,1,Pb,208,,ppm
-blank,1,Mn,55,0.000000,ppb
-blank,1,Fe,56,0.000000,ppm
-blank,1,Co,59,0.000000,ppb
-blank,1,Cu,65,0.000000,ppm
-blank,1,Zn,66,0.000512,ppm
-blank,1,Se,78,0.000000,ppm
-blank,1,Mo,95,0.000000,ppb
-blank,1,Pb,208,0.000000,ppm
+Cal Blank,1,Mn,55,0.000000,ppb
+Cal Blank,1,Fe,56,0.000000,ppm
+Cal Blank,1,Co,59,0.000000,ppb
+Cal Blank,1,Cu,65,0.000000,ppm
+Cal Blank,1,Zn,66,0.000512,ppm
+Cal Blank,1,Se,78,0.000000,ppm
+Cal Blank,1,Mo,95,0.000000,ppb
+Cal Blank,1,Pb,208,0.000000,ppm
 0.05 uog3/4,200,Mn,55,9.609481,ppb
 0.05 uog3/4,200,Fe,56,0.024692,ppm
 0.05 uog3/4,200,Co,59,9.525721,ppb
@@ -207,14 +207,14 @@ rinse,50,Zn,66,0.007774,ppm
 rinse,50,Se,78,-0.000246,ppm
 rinse,50,Mo,95,0.069122,ppb
 rinse,50,Pb,208,-0.000070,ppm
-Blank,50,Mn,55,0.193442,ppb
-Blank,50,Fe,56,-0.000704,ppm
-Blank,50,Co,59,0.033428,ppb
-Blank,50,Cu,65,-0.000340,ppm
-Blank,50,Zn,66,0.008466,ppm
-Blank,50,Se,78,-0.000370,ppm
-Blank,50,Mo,95,0.102458,ppb
-Blank,50,Pb,208,0.000310,ppm
+Serum Blank,50,Mn,55,0.193442,ppb
+Serum Blank,50,Fe,56,-0.000704,ppm
+Serum Blank,50,Co,59,0.033428,ppb
+Serum Blank,50,Cu,65,-0.000340,ppm
+Serum Blank,50,Zn,66,0.008466,ppm
+Serum Blank,50,Se,78,-0.000370,ppm
+Serum Blank,50,Mo,95,0.102458,ppb
+Serum Blank,50,Pb,208,0.000310,ppm
 QM-S Q1807 ,50,Mn,55,2.617508,ppb
 QM-S Q1807 ,50,Fe,56,0.802563,ppm
 QM-S Q1807 ,50,Co,59,3.958394,ppb
@@ -455,14 +455,14 @@ rinse,50,Zn,66,0.008119,ppm
 rinse,50,Se,78,-0.000406,ppm
 rinse,50,Mo,95,0.104786,ppb
 rinse,50,Pb,208,-0.000066,ppm
-Blank,50,Mn,55,0.135245,ppb
-Blank,50,Fe,56,0.005499,ppm
-Blank,50,Co,59,0.030736,ppb
-Blank,50,Cu,65,0.000237,ppm
-Blank,50,Zn,66,0.019939,ppm
-Blank,50,Se,78,-0.000206,ppm
-Blank,50,Mo,95,0.101004,ppb
-Blank,50,Pb,208,-0.000048,ppm
+Serum Blank,50,Mn,55,0.135245,ppb
+Serum Blank,50,Fe,56,0.005499,ppm
+Serum Blank,50,Co,59,0.030736,ppb
+Serum Blank,50,Cu,65,0.000237,ppm
+Serum Blank,50,Zn,66,0.019939,ppm
+Serum Blank,50,Se,78,-0.000206,ppm
+Serum Blank,50,Mo,95,0.101004,ppb
+Serum Blank,50,Pb,208,-0.000048,ppm
 QM-S Q1807 ,50,Mn,55,2.725244,ppb
 QM-S Q1807 ,50,Fe,56,0.827248,ppm
 QM-S Q1807 ,50,Co,59,3.905771,ppb
@@ -591,14 +591,14 @@ rinse,50,Zn,66,0.007497,ppm
 rinse,50,Se,78,-0.000394,ppm
 rinse,50,Mo,95,0.078133,ppb
 rinse,50,Pb,208,-0.000059,ppm
-Blank,200,Mn,55,2.210021,ppb
-Blank,200,Fe,56,0.209541,ppm
-Blank,200,Co,59,0.405297,ppb
-Blank,200,Cu,65,0.004617,ppm
-Blank,200,Zn,66,0.045009,ppm
-Blank,200,Se,78,0.003806,ppm
-Blank,200,Mo,95,4.019185,ppb
-Blank,200,Pb,208,0.000168,ppm
+Blood Blank,200,Mn,55,2.210021,ppb
+Blood Blank,200,Fe,56,0.209541,ppm
+Blood Blank,200,Co,59,0.405297,ppb
+Blood Blank,200,Cu,65,0.004617,ppm
+Blood Blank,200,Zn,66,0.045009,ppm
+Blood Blank,200,Se,78,0.003806,ppm
+Blood Blank,200,Mo,95,4.019185,ppb
+Blood Blank,200,Pb,208,0.000168,ppm
 QM-B Q1720,200,Mn,55,16.474261,ppb
 QM-B Q1720,200,Fe,56,418.617152,ppm
 QM-B Q1720,200,Co,59,1.342771,ppb

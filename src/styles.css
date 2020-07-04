@@ -33,11 +33,11 @@ body {
 
 .firstCol {
   text-align: left !important;
-  width: 150px !important;
+  min-width: 150px !important;
 }
 
 .calTable, .sampleTable, .blankTable, .RMTable {
-  max-width: 800px;
+  max-width: 100%;
   border-collapse: collapse;
 }
 
@@ -45,13 +45,13 @@ body {
   border-bottom: 1px solid black;
   padding: 2px 4px;
   text-align: center;
-  width: 75px;
+  width: 75px !important;
   vertical-align: middle;
 }
 
 .calTable th, .sampleTable th, .blankTable th, .RMTable th {
   border-bottom: 2px solid black;
-  width: 75px;
+  width: 75px !important;
   padding: 2px 4px;
 }
 

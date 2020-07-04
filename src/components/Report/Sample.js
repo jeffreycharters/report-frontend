@@ -8,7 +8,7 @@ const Sample = ({ data, sigFigs, coloured }) => {
       <tbody>
         <tr className={coloured ? 'colouredRow' : ''}>
           <td className='firstCol'>{data.id}</td>
-          {data.values.map((v, i) => <td key={data.id + data.values[i]}>{dataUtils.roundToSigFigs(v, sigFigs)}</td>)}
+          {data.values.map((v, i) => <td key={data.id + data.values[i]}>{v > 1000 ? parseFloat(dataUtils.roundToSigFigs(v, sigFigs)) : dataUtils.roundToSigFigs(v, sigFigs)}</td>)}
         </tr>
       </tbody>
     </table>

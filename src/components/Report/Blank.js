@@ -1,7 +1,7 @@
 import React from 'react'
 import dataUtils from '../../utils/dataUtils'
 
-const Blank = ({ data, method, blank }) => {
+const Blank = ({ data, method, blank, LOQs }) => {
   return (
     <div>
       <br />
@@ -29,11 +29,11 @@ const Blank = ({ data, method, blank }) => {
           <tr>
             <td className='firstCol'>Below LOQ</td>
             {data.values.map((v, i) => {
-              const hasLOQ = blank.LOQs[i]
+              const hasLOQ = LOQs[i]
               const passes = v < blank.LOQs[i]
               return <td key={v}
                 className={hasLOQ ? passes ? 'samplePass' : 'sampleFail' : 'sampleNeutral'}>
-                {hasLOQ ? passes ? 'Pass' : 'Check' : '- - -'}
+                {hasLOQ ? LOQs[i] : '- - -'}
               </td>
             })
             }

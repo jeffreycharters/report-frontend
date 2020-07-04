@@ -15,7 +15,7 @@ const Report = ({ data, method }) => {
   const sampleIdRegEx = new RegExp('[0-9]{2}-[0-9]{6}-[0-9]{4}')
 
   return (
-    <div className='container'>
+    <div style={{ margin: 'auto' }}>
 
       <Helmet>
         <meta charSet="utf-8" />
@@ -40,11 +40,13 @@ const Report = ({ data, method }) => {
           />
         }
         else if (sampleBlank) {
+          const LOQs = method.blanks.find(b => b.type === sampleBlank.type).LOQs
           return <Blank
             data={d}
             key={idx}
             blank={sampleBlank}
             method={method}
+            LOQs={LOQs}
           />
         }
         else if (checkStd) {
@@ -56,11 +58,13 @@ const Report = ({ data, method }) => {
           />
         }
         else if (referenceMaterial) {
+          const LOQs = method.blanks.find(b => b.type === referenceMaterial.type)
           return <ReferenceMaterial
             data={d}
             key={idx}
             method={method}
             material={referenceMaterial}
+            LOQs={LOQs}
           />
         }
         else if (duplicate) {
