@@ -4,6 +4,7 @@ import {
   Route, Switch
 } from 'react-router-dom'
 import axios from 'axios'
+import Helmet from 'react-helmet'
 
 import MethodSelect from './components/MethodSelect'
 import Report from './components/Report/index'
@@ -22,15 +23,23 @@ const App = () => {
     allMethods.then(response => setMethods(response.data))
   }, [])
 
-  return (
+  return <div>
+    <Helmet>
+      <meta charSet="utf-8" />
+      <title>Agilent 7900 Reporting Application</title>
+    </Helmet>
+
     <Router>
       <Switch>
+
         <Route path='/method'>
           <Method method={method} />
         </Route>
+
         <Route path='/report'>
-          <Report method={method} data={data} />
+          <Report method={method} data={data} setError={setError} />
         </Route>
+
         <Route path='/:name'>
           <MethodSelect
             error={error}
@@ -40,32 +49,14 @@ const App = () => {
             setError={setError}
             setData={setData} />
         </Route>
+
         <Route path='/'>
           <MethodSelect method={method} methods={methods} setMethod={setMethod} error={error} />
         </Route>
+
       </Switch>
     </Router>
-  )
+  </div>
 
-  /* 
-  if (!methods) {
-    return <div>Loading..</div>
-  }
-
-  else if (!data) {
-    return <div className="container">
-      {error && <div style={{ textAlign: 'center', height: '2rem', color: 'red' }}>{error}</div>}
-      <MethodButtons methods={methods} setMethod={setMethod} />
-      <FileSelector setError={setError} setData={setData} method={method} />
-      {method.name && <hr />}
-      <Method method={method} />
-    </div>
-
-  } else {
-
-    return <div>
-      <Report data={data} method={method} />
-    </div>
-  } */
 }
 export default App

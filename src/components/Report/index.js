@@ -30,6 +30,12 @@ const Report = ({ data, method }) => {
         <title>Agilent 7900 Reporting Application</title>
       </Helmet>
 
+      {method && (method.elements.length !== data[0].values.length) &&
+        <div style={{ color: 'red' }}>
+          Warning: expected {method.elements.length} element{method.elements.length === 1 ? '' : 's'}, found {data[0].values.length}.
+          Possible method mismatch.
+        </div>}
+
       <HeaderInfo method={method} />
       {data[0].id && data.map((d, idx) => {
 
