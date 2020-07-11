@@ -62,12 +62,17 @@ body {
 .methodButton {
   margin: 2px 5px;
   padding: 2px 10px;
+  color: darkslategray;
+  background-color: gainsboro;
+  border: 1px solid grey;
+  border-radius: 4px;
+  text-decoration: none;
 }
 
 .methodButtons {
-  max-width: 800px;
   margin: auto;
   text-align: center;
+  padding: 10px;
 }
 
 .methodTable th, .methodTable td {

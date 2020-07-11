@@ -1,6 +1,10 @@
 import React from 'react'
 
-const SampleHeader = ({ elements, units }) => {
+const SampleBlock = (props) => {
+  const elements = props.elements
+  const units = props.units
+
+  console.log(props.children)
 
   return (
     <>
@@ -12,9 +16,12 @@ const SampleHeader = ({ elements, units }) => {
             {elements.map((e, i) => <th key={e} >{e + ' (' + units[i] + ')'}</th>)}
           </tr>
         </thead>
+        <tbody>
+          {props.children}
+        </tbody>
       </table>
     </>
   )
 }
 
-export default SampleHeader
+export default SampleBlock

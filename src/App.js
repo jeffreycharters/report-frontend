@@ -1,17 +1,20 @@
 import React, { useState, useEffect } from 'react'
+import {
+  BrowserRouter as Router,
+  Route, Switch, Link
+} from 'react-router-dom'
 import axios from 'axios'
 
-import MethodButtons from './components/MethodSelect'
+import MethodSelect from './components/MethodSelect'
 import Report from './components/Report/index'
 import Method from './components/Method'
 
-import dataUtils from './utils/dataUtils'
-import csvParse from './utils/csvParse'
+import FileSelector from './components/FileSelector'
 
 const App = () => {
   const [error, setError] = useState(null)
   const [data, setData] = useState()
-  const [method, setMethod] = useState({})
+  const [method, setMethod] = useState()
   const [methods, setMethods] = useState()
 
   const baseUrl = '/api'
@@ -21,41 +24,46 @@ const App = () => {
     allMethods.then(response => setMethods(response.data))
   }, [])
 
-  const fileHandler = (event) => {
-    event.preventDefault()
-    const inputFile = event.target.files[0]
-    if (inputFile.type !== "text/plain") {
-      console.log("wrong file type")
-      setError("wrong file type")
-      return
-    }
+  return (
+    <Router>
+      <Switch>
+        <Route path='/report'>
+          <Report method={method} data={data} />
+        </Route>
+        <Route path='/:name'>
+          <MethodSelect
+            method={method}
+            methods={methods}
+            setMethod={setMethod}
+            setError={setError}
+            setData={setData} />
+        </Route>
+        <Route path='/'>
+          <MethodSelect method={method} methods={methods} setMethod={setMethod} />
+        </Route>
+      </Switch>
+    </Router>
+  )
 
-    const reader = new FileReader()
-    reader.readAsText(inputFile)
-    reader.onloadend = () => {
-      const jsonData = csvParse(reader.result)
-      const parsedData = dataUtils.parseJsonData(jsonData)
-      setData(parsedData)
-    }
-  }
-
+  /* 
   if (!methods) {
     return <div>Loading..</div>
   }
+
   else if (!data) {
     return <div className="container">
-      <div>{error}</div>
+      {error && <div style={{ textAlign: 'center', height: '2rem', color: 'red' }}>{error}</div>}
       <MethodButtons methods={methods} setMethod={setMethod} />
-      <div className='centeredContainerParent' style={{ height: '60px', padding: '25px' }}>
-        <div className='centeredContainerChild'>
-          {method.name && <input type="file" id="inputFile" name="inputFile" onChange={fileHandler} />}
-        </div>
-      </div>
+      <FileSelector setError={setError} setData={setData} method={method} />
       {method.name && <hr />}
       <Method method={method} />
     </div>
+
   } else {
-    return <Report data={data} method={method} />
-  }
+
+    return <div>
+      <Report data={data} method={method} />
+    </div>
+  } */
 }
 export default App

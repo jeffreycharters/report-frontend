@@ -3,7 +3,7 @@ import React from 'react'
 const Method = ({ method }) => {
   if (method && method.name) {
     return <div className='centeredContainerParent'>
-      <div className='centeredContainerChild'>
+      <div className='centeredContainerChild' style={{ textAlign: 'left', paddingTop: '15px' }}>
         <h2>{method.name}</h2>
         <h3>{method.description}</h3>
 
@@ -49,23 +49,23 @@ const Method = ({ method }) => {
                 })}
               </tr>
             })}
-          </tbody>
 
-          {method.referenceMaterials.map((r, i) => {
-            return <tbody key={r.name}>
-              <tr key={r.name + i} style={{ borderTop: '1px solid grey' }}>
+            {method.referenceMaterials.map((r, i) => {
+              return <><tr key={r.name + i} style={{ borderTop: '1px solid grey' }}>
                 <td className='firstCol'>{r.name} Low</td>
                 {r.rangesLow.map((e, i) =>
                   <td key={i}>{e || '- -'}</td>
                 )}
               </tr><tr style={{ borderBottom: '1px solid grey' }}>
-                <td className='firstCol'>{r.name} High</td>
-                {r.rangesHigh.map((e, i) =>
-                  <td key={i}>{e || '- -'}</td>
-                )}
-              </tr>
-            </tbody>
-          })}
+                  <td className='firstCol'>{r.name} High</td>
+                  {r.rangesHigh.map((e, i) =>
+                    <td key={i}>{e || '- -'}</td>
+                  )}
+                </tr>
+              </>
+            })}
+
+          </tbody>
 
         </table>
       </div>

@@ -1,11 +1,12 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Helmet } from 'react-helmet'
+import { Link } from 'react-router-dom'
 
 import Blank from './Blank'
-import Sample from './Sample'
+import Samples from './Sample'
 import Duplicate from './Duplicate'
 import Calibration from './Calibration'
-import SampleHeader from './SampleHeader'
+import SampleBlock from './SampleBlock'
 import HeaderInfo from './HeaderInfo'
 import CheckStd from './CheckStd'
 import ReferenceMaterial from './ReferenceMaterial'
@@ -13,6 +14,13 @@ import ReferenceMaterial from './ReferenceMaterial'
 const Report = ({ data, method }) => {
 
   const sampleIdRegEx = new RegExp('[0-9]{2}-[0-9]{6}-[0-9]{4}')
+
+  if (!data) {
+    return <div>
+      Loading data. If your report doesn't load soon,
+      &nbsp;<Link to='/'>click here</Link> to restart.
+      </div>
+  }
 
   return (
     <div>
@@ -24,8 +32,6 @@ const Report = ({ data, method }) => {
 
       <HeaderInfo method={method} />
       {data[0].id && data.map((d, idx) => {
-
-        console.log(d)
 
         const sampleBlank = method.blanks.find(b => b.name === d.id)
         const checkStd = method.checkStds.find(c => c.name === d.id)
@@ -80,25 +86,43 @@ const Report = ({ data, method }) => {
           const prevSampleExists = data[idx - 1]
           const prevSampleIsSample = data[idx - 1].id.match(sampleIdRegEx)
           const prevSampleIsDup = data[idx - 1].dupValues
+
+          // If this is the first sample of a block of samples,
+          // we'll start a new block with headers and such.
           if (prevSampleExists && (!prevSampleIsSample || prevSampleIsDup)) {
+
+            // start a list of the samples in this block
+            let sampleList = [d]
+            let stillASample = true
+            let j = idx + 1
+
+            // This loop will stay true until the end of the sample
+            // block is reached, or we hit a duplicate
+            while (stillASample) {
+              const isASample = data[j].id.match(sampleIdRegEx)
+              const isADup = data[j].dupValues
+              stillASample = isASample && !isADup
+              if (stillASample) sampleList.push(data[j])
+              ++j
+            }
+
+
+            // If it's not the first sample of a new block,
+            // we can safely skip it because we will pass
+            // all of the samples in the block to this component
             return <div key={d.id + idx}>
-              <SampleHeader
+              <SampleBlock
                 elements={method.elements}
                 data={d}
                 key={Date.now()}
-                units={method.units} />
-
-              <Sample data={d}
-                key={idx}
-                sigFigs={method.sigFigs}
-                coloured={idx % 2 === 1} />
+                units={method.units}>
+                <Samples samples={sampleList}
+                  key={idx}
+                  sigFigs={method.sigFigs}
+                />
+              </SampleBlock>
             </div>
           }
-          return <Sample
-            data={d}
-            key={idx}
-            sigFigs={method.sigFigs}
-            coloured={idx % 2 === 1} />
         }
         return null
       })
