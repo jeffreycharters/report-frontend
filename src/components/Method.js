@@ -7,8 +7,8 @@ const Method = ({ method }) => {
         <h2>{method.name}</h2>
         <h3>{method.description}</h3>
 
-        <h4>Percent RPD for duplicates: {method.duplicateTolerance}<br />
-      Number of significant figures on report: {method.sigFigs}</h4>
+        <h4>Percent RPD for duplicates: {method.duplicateTolerance}</h4>
+        <h4>Number of significant figures on report: {method.sigFigs}</h4>
 
         <p>Calibration Standard concentrations: {method.calStandards.join(', ')}</p>
 
@@ -51,18 +51,19 @@ const Method = ({ method }) => {
             )}
 
             {method.referenceMaterials.map((r, i) =>
-              <><tr key={r.name + i} style={{ borderTop: '1px solid grey' }}>
-                <td className='firstCol'>{r.name} Low</td>
-                {r.rangesLow.map((e, i) =>
-                  <td key={i}>{e || '- -'}</td>
-                )}
-              </tr><tr style={{ borderBottom: '1px solid grey' }}>
+              <React.Fragment key={r.name} >
+                <tr style={{ borderTop: '1px solid grey' }}>
+                  <td className='firstCol'>{r.name} Low</td>
+                  {r.rangesLow.map((e, i) =>
+                    <td key={i}>{e || '- -'}</td>
+                  )}
+                </tr><tr style={{ borderBottom: '1px solid grey' }}>
                   <td className='firstCol'>{r.name} High</td>
                   {r.rangesHigh.map((e, i) =>
                     <td key={i}>{e || '- -'}</td>
                   )}
                 </tr>
-              </>
+              </React.Fragment>
             )}
 
           </tbody>
