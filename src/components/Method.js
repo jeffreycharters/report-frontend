@@ -32,26 +32,26 @@ const Method = ({ method }) => {
               )}
             </tr>
 
-            {method.blanks.map((b, i) => {
-              return <tr key={b.name + i} style={i === 0 ? { borderTop: '1px solid grey' } : null}>
+            {method.blanks.map((b, i) =>
+              <tr key={b.name + i} style={i === 0 ? { borderTop: '1px solid grey' } : null}>
                 <td className='firstCol'>{b.name} LOQs</td>
-                {b.LOQs.map((loq, i) => {
-                  return <td key={i}>{loq || '- -'}</td>
-                })}
+                {b.LOQs.map((loq, i) =>
+                  <td key={i}>{loq || '- -'}</td>
+                )}
               </tr>
-            })}
+            )}
 
-            {method.checkStds.map((c, i) => {
-              return <tr key={c.name + i} style={i === 0 ? { borderTop: '1px solid grey' } : null}>
+            {method.checkStds.map((c, i) =>
+              <tr key={c.name + i} style={i === 0 ? { borderTop: '1px solid grey' } : null}>
                 <td className='firstCol'>{c.name}</td>
-                {c.expectedValues.map((e, i) => {
-                  return <td key={i}>{e}</td>
-                })}
+                {c.expectedValues.map((e, i) =>
+                  <td key={i}>{e}</td>
+                )}
               </tr>
-            })}
+            )}
 
-            {method.referenceMaterials.map((r, i) => {
-              return <><tr key={r.name + i} style={{ borderTop: '1px solid grey' }}>
+            {method.referenceMaterials.map((r, i) =>
+              <><tr key={r.name + i} style={{ borderTop: '1px solid grey' }}>
                 <td className='firstCol'>{r.name} Low</td>
                 {r.rangesLow.map((e, i) =>
                   <td key={i}>{e || '- -'}</td>
@@ -63,7 +63,7 @@ const Method = ({ method }) => {
                   )}
                 </tr>
               </>
-            })}
+            )}
 
           </tbody>
 
