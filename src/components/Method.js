@@ -18,7 +18,7 @@ const Method = ({ method }) => {
             <tr>
               <th className='firstCol'>Elements</th>
               {method.elements.map(e =>
-                <th key={e} >{e}</th>
+                <th key={e}>{e}</th>
               )}
             </tr>
           </thead>

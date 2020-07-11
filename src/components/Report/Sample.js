@@ -21,7 +21,7 @@ const Sample = ({ data, sigFigs, coloured }) => {
 const Samples = ({ samples, sigFigs }) => {
   return <>
     {samples.map((s, i) => {
-      return <Sample data={s} sigFigs={sigFigs} coloured={i % 2} />
+      return <Sample key={s.id} data={s} sigFigs={sigFigs} coloured={i % 2} />
     })
     }
   </>

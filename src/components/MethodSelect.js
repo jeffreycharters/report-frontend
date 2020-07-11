@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
 
-import Method from '../components/Method'
+import Method from './Method'
 import FileSelector from './FileSelector'
 
 const MethodSelect = ({ method, methods, setData, setError, setMethod }) => {
@@ -30,9 +30,10 @@ const MethodSelect = ({ method, methods, setData, setError, setMethod }) => {
 
       <Link to='/' className='methodButton' onClick={() => setMethod()}>Clear</Link>
 
-      {method && <FileSelector setError={setError} method={method} setData={setData} />}
-
-      {method && <Method method={method} />}
+      {method && (<div>
+        <FileSelector setError={setError} method={method} setData={setData} />
+        <Method method={method} />
+      </div>)}
     </div>
   </div>
 }

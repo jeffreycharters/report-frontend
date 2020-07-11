@@ -4,8 +4,6 @@ const SampleBlock = (props) => {
   const elements = props.elements
   const units = props.units
 
-  console.log(props.children)
-
   return (
     <>
       <br />
