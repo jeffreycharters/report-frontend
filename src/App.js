@@ -1,17 +1,18 @@
 import React, { useState, useEffect } from 'react'
-import CSVReader from 'react-csv-reader'
 import axios from 'axios'
 
-import MethodButtons from './components/MethodButtons'
+import MethodButtons from './components/MethodSelect'
 import Report from './components/Report/index'
 import Method from './components/Method'
 
 import dataUtils from './utils/dataUtils'
+import csvParse from './utils/csvParse'
 
 const App = () => {
-  const [data, setData] = useState();
-  const [method, setMethod] = useState({});
-  const [methods, setMethods] = useState();
+  const [error, setError] = useState(null)
+  const [data, setData] = useState()
+  const [method, setMethod] = useState({})
+  const [methods, setMethods] = useState()
 
   const baseUrl = '/api'
 
@@ -20,31 +21,22 @@ const App = () => {
     allMethods.then(response => setMethods(response.data))
   }, [])
 
-  const csvHandler = (data) => {
-    setData(dataUtils.parseJsonData(data))
-    return <App />
-  }
+  const fileHandler = (event) => {
+    event.preventDefault()
+    const inputFile = event.target.files[0]
+    if (inputFile.type !== "text/plain") {
+      console.log("wrong file type")
+      setError("wrong file type")
+      return
+    }
 
-  const papaparseOptions = {
-    header: true,
-    dynamicTyping: true,
-    skipEmptyLines: true,
-    transformHeader: header => header.toLowerCase().replace(/\W/g, "_")
-  };
-
-
-  const Reader = () => {
-    return (
-      <div style={{ textAlign: 'center', paddingTop: '40px', fontWeight: 'bold' }}>
-        <CSVReader
-          cssClass="react-csv-input"
-          label="Select a method using buttons above, then choose your file."
-          onFileLoaded={csvHandler}
-          parserOptions={papaparseOptions}
-          inputStyle={{ disabled: 'true' }}
-        />
-      </div>
-    )
+    const reader = new FileReader()
+    reader.readAsText(inputFile)
+    reader.onloadend = () => {
+      const jsonData = csvParse(reader.result)
+      const parsedData = dataUtils.parseJsonData(jsonData)
+      setData(parsedData)
+    }
   }
 
   if (!methods) {
@@ -52,8 +44,13 @@ const App = () => {
   }
   else if (!data) {
     return <div className="container">
+      <div>{error}</div>
       <MethodButtons methods={methods} setMethod={setMethod} />
-      <Reader />
+      <div className='centeredContainerParent' style={{ height: '60px', padding: '25px' }}>
+        <div className='centeredContainerChild'>
+          {method.name && <input type="file" id="inputFile" name="inputFile" onChange={fileHandler} />}
+        </div>
+      </div>
       {method.name && <hr />}
       <Method method={method} />
     </div>

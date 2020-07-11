@@ -22,7 +22,7 @@ const Duplicate = ({ data, elements, method }) => {
             return <tr key={std.id + i}>
               <td className='firstCol'>{std.id}</td>
               {std.values.map((v, i) => {
-                return <td key={v + i}>{dataUtils.roundToSigFigs(v, method.sigFigs)}</td>
+                return <td key={v + i}>{v < 0.001 && std.name !== 'Hg' ? '0.00' : dataUtils.roundToSigFigs(v, method.sigFigs)}</td>
               }
               )}
             </tr>

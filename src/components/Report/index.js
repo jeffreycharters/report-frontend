@@ -15,7 +15,7 @@ const Report = ({ data, method }) => {
   const sampleIdRegEx = new RegExp('[0-9]{2}-[0-9]{6}-[0-9]{4}')
 
   return (
-    <div style={{ margin: 'auto' }}>
+    <div>
 
       <Helmet>
         <meta charSet="utf-8" />
@@ -24,6 +24,8 @@ const Report = ({ data, method }) => {
 
       <HeaderInfo method={method} />
       {data[0].id && data.map((d, idx) => {
+
+        console.log(d)
 
         const sampleBlank = method.blanks.find(b => b.name === d.id)
         const checkStd = method.checkStds.find(c => c.name === d.id)

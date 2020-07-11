@@ -6,7 +6,7 @@ const parseJsonData = (output) => {
 
   const firstElementMass = output[0].mass
   let i = 1;
-  let massesPresent = [output[0].mass]
+  let massesPresent = [parseInt(output[0].mass)]
   while (output[i].mass !== firstElementMass) {
     massesPresent.push(parseInt(output[i].mass))
     i++;
@@ -20,8 +20,8 @@ const parseJsonData = (output) => {
     let units = []
 
     for (let j = 0; j < elementCount; j++) {
-      const findMassIndex = massesPresent.findIndex(m => m === output[i + j].mass)
-      values[findMassIndex] = (output[i + j].concentration)
+      const findMassIndex = massesPresent.findIndex(m => m === parseInt(output[i + j].mass))
+      values[findMassIndex] = Number(output[i + j].concentration)
       units.push(output[i + j].units)
     }
 
@@ -42,7 +42,7 @@ const parseJsonData = (output) => {
 
 const roundToSigFigs = (number, sigFigs) => {
   let oom = 0;
-  let result = number;
+  let result = Number(number);
 
   if (number > 10) {
     while (result > 10) {
