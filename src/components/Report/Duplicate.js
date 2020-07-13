@@ -2,7 +2,19 @@ import React from 'react'
 import dataUtils from '../../utils/dataUtils'
 
 const Duplicate = ({ data, method }) => {
-  const LOQs = method.blanks[0].LOQs
+  const getLowestLOQs = (methodBlanks) => {
+    let lowestLOQs = []
+    for (const blankType of methodBlanks) {
+      for (let i = 0; i < blankType.LOQs.length; i++) {
+        const currentLOQ = blankType.LOQs[i]
+        if (currentLOQ && (!lowestLOQs[i] || currentLOQ < lowestLOQs[i])) {
+          lowestLOQs[i] = blankType.LOQs[i]
+        }
+      }
+    }
+    return lowestLOQs
+  }
+  const LOQs = getLowestLOQs(method.blanks)
   const sigFigs = method.sigFigs
 
   return (

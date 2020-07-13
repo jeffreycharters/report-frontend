@@ -16,7 +16,7 @@ const Report = ({ data, method }) => {
   const sampleIdRegEx = new RegExp('[0-9]{2}-[0-9]{6}-[0-9]{4}')
 
   if (!data) {
-    return <div>
+    return <div style={{ textAlign: 'center' }}>
       Loading data. If your report doesn't load soon,
       &nbsp;<Link to='/'>click here</Link> to restart.
       </div>
@@ -27,7 +27,7 @@ const Report = ({ data, method }) => {
 
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Agilent 7900 Reporting Application</title>
+        <title>JCQC Reporting Application</title>
       </Helmet>
 
       {method && (method.elements.length !== data[0].values.length) &&
@@ -42,7 +42,8 @@ const Report = ({ data, method }) => {
         const sampleBlank = method.blanks.find(b => b.name === d.id)
         const checkStd = method.checkStds.find(c => c.name === d.id)
         const referenceMaterial = method.referenceMaterials.find(r => r.name === d.id)
-        const duplicate = d.id.match(sampleIdRegEx) && d.dupValues
+        // const duplicate = d.id.match(sampleIdRegEx) && d.dupValues
+        const duplicate = d.dupValues
         const sample = d.id.match(sampleIdRegEx)
 
         if (d.id === 'Cal Blank') {
@@ -73,18 +74,32 @@ const Report = ({ data, method }) => {
         }
         else if (referenceMaterial) {
           const LOQs = method.blanks.find(b => b.type === referenceMaterial.type)
-          return <ReferenceMaterial
-            data={d}
-            key={idx}
-            method={method}
-            material={referenceMaterial}
-            LOQs={LOQs}
-          />
+          if (!duplicate) {
+            return <ReferenceMaterial
+              data={d}
+              key={d.id + idx}
+              method={method}
+              material={referenceMaterial}
+              LOQs={LOQs}
+            />
+          } else {
+            return <div key={d.id + idx}><ReferenceMaterial
+              data={d}
+              method={method}
+              material={referenceMaterial}
+              LOQs={LOQs}
+            />
+              <Duplicate
+                data={d}
+                method={method}
+              />
+            </div>
+          }
         }
         else if (duplicate) {
           return <Duplicate
             data={d}
-            key={idx}
+            key={d.dupValues.length + idx}
             method={method}
           />
         }
