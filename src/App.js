@@ -9,6 +9,7 @@ import Helmet from 'react-helmet'
 import MethodSelect from './components/MethodSelect'
 import Report from './components/Report/index'
 import Method from './components/Method'
+import EditMethodForm from './components/Editing/EditMethodForm'
 
 const App = () => {
   const [error, setError] = useState(null)
@@ -38,6 +39,10 @@ const App = () => {
 
         <Route path='/report'>
           <Report method={method} data={data} setError={setError} />
+        </Route>
+
+        <Route path='/edit/:name'>
+          <EditMethodForm />
         </Route>
 
         <Route path='/:name'>
