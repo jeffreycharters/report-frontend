@@ -5,21 +5,16 @@ const tdStyle = {
   width: '50px'
 }
 
-const SingleInput = ({ element, idx, changeHandler, elementAdder, lastElement }) => {
+const SingleInput = ({ unit, idx, changeHandler }) => {
   return <span>
-    <span onClick={() => elementAdder(idx, true)}>+</span>
     <input type="text"
       name={`elements-${idx}`}
-      value={element}
+      value={unit}
       onChange={(e) => changeHandler(e, idx)}
       size="3"
-      key={element}
       style={tdStyle}
       autoFocus
     />
-    {lastElement &&
-      <span
-        onClick={(e) => elementAdder(idx + 1, true)}>+</span>}
   </span>
 }
 
