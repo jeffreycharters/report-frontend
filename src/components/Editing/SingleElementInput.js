@@ -1,19 +1,14 @@
-import React from 'react'
-
-const tdStyle = {
-  padding: '3px',
-  width: '50px'
-}
+import React, { useState } from 'react'
 
 const SingleElementInput = ({ variable, idx, changeHandler }) => {
+  const [value, setValue] = useState(variable)
   return <span>
     <input type="text"
       name='units'
       value={variable}
-      onChange={(e) => changeHandler(e, idx)}
-      size="3"
-      style={tdStyle}
-      autoFocus
+      onChange={(e) => setValue(e.target.value)}
+      onBlur={(e) => changeHandler(e, idx)}
+      size="2"
     />
   </span>
 }

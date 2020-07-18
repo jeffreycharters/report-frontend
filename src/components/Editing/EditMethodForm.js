@@ -89,9 +89,10 @@ const EditMethodForm = () => {
     // Loop through each key of the method object.
     for (const key of keys) {
       // Check if it's an array.
-      if (Array.isArray(method[key])) {
+      if (Array.isArray(method[key]) && method[key].length > 0) {
         // If it's an array and not the calStandards array..
-        if (method[key].length === startingElements && key !== 'calStandards') {
+        // Added the key.name clause so it doesn't wipe things out when removing elements.
+        if (method[key].length === startingElements && key !== 'calStandards' && !method[key][0].name) {
           // Add or remove a value using this function.
           modifyArray(updatedMethod[key], idx, add, '')
 
@@ -119,7 +120,6 @@ const EditMethodForm = () => {
 
   const inputNumberChangeHandler = (event) => {
     const [type, typeIndex, keyName, finalIndex] = event.target.id.split('~~')
-    console.log(event.target.id)
     const updatedMethod = { ...method }
     updatedMethod[type][typeIndex][keyName][finalIndex] = event.target.value
     setMethod(updatedMethod)
@@ -184,178 +184,215 @@ const EditMethodForm = () => {
     setMethod(updatedMethod)
   }
 
-  return <div>
-    <form>
-      <label htmlFor="name">Method Name</label>
-      <input type="text"
-        name="name"
-        value={method.name}
-        onChange={methodChangeHandler}
-        size="15"
-      />
+  const padding = {
+    margin: '3px',
+    padding: '5px'
+  }
 
-      <br />
+  return <div className='centeredContainerParent' style={{ maxWidth: '98%' }}>
+    <div className='centeredContainerChild' style={{ textAlign: 'left', paddingTop: '15px' }}>
+      <form>
+        <label htmlFor="name">Method Name</label>
+        <input type="text"
+          name="name"
+          value={method.name}
+          onChange={methodChangeHandler}
+          size="15"
+        />
 
-      <label htmlFor="description">Method Description</label>
-      <input type="text"
-        name="description"
-        value={method.description}
-        onChange={methodChangeHandler}
-        size="75"
-      />
+        <br />
 
-      <h2>Elements</h2>
+        <label htmlFor="description">Method Description</label>
+        <input type="text"
+          name="description"
+          value={method.description}
+          onChange={methodChangeHandler}
+          size="75"
+        />
 
-      <table style={{ borderCollapse: 'collapse', textAlign: 'center' }}>
-        <thead>
-          <tr>
-            <th style={{ textAlign: 'left' }}>Name</th>
-            {method.elements.map((element, idx) =>
-              <th key={`${element}-${idx}`}>
-                <SingleInput
-                  type='elements'
-                  element={element}
-                  changeHandler={methodElementChangeHandler}
-                  elementAdder={newElementHandler}
-                  idx={idx}
-                  lastElement={idx + 1 === method.elements.length} />
-              </th>
-            )}
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style={{ textAlign: 'right' }}>Units</td>
-            {method.units.map((unit, idx) =>
-              <td
-                key={`${method.elements[idx]}-${unit}-${idx}`}>
-                <UnitInput
-                  unit={unit}
-                  idx={idx}
-                  changeHandler={methodUnitChangeHandler}
+        <br />
+
+        <label htmlFor="sigFigs">Sig Figs to Display</label>
+        <input type="text"
+          name="sigFigs"
+          value={method.sigFigs}
+          onChange={methodChangeHandler}
+          size="1"
+        />
+
+        <br />
+
+        <label htmlFor="checkStdTolerance">Check Standards Tolerance</label>
+        <input type="text"
+          name="checkStdTolerance"
+          value={method.checkStdTolerance * 100}
+          onChange={(e) => {
+            e.target.value /= 100
+            methodChangeHandler(e)
+          }}
+          size="1"
+        />%
+
+
+        <br />
+
+        <label htmlFor="duplicateTolerance">Duplicate Tolerance</label>
+        <input type="text"
+          name="duplicateTolerance"
+          value={method.duplicateTolerance}
+          onChange={methodChangeHandler}
+          size="1"
+        />%
+
+        <h2>Add Something:</h2>
+
+        <button onClick={addTypeHandler} name='checkStds' style={padding}>
+          Add Check Standard
+                </button>
+        <button onClick={addTypeHandler} name='blanks' style={padding}>
+          Add Blank
+                </button>
+        <button onClick={addTypeHandler} name='referenceMaterials' style={padding}>
+          Add Reference Material
+                </button>
+
+
+        <h2>Elements</h2>
+
+        <table cellSpacing='0' className='editMethodTable' style={{ borderCollapse: 'collapse', textAlign: 'center', maxWidth: '100%' }}>
+          <thead>
+            <tr>
+              <th style={{ textAlign: 'left' }}>Name</th>
+              {method.elements.map((element, idx) =>
+                <th key={`${element}-${idx}`}>
+                  <SingleInput
+                    type='elements'
+                    element={element}
+                    changeHandler={methodElementChangeHandler}
+                    elementAdder={newElementHandler}
+                    idx={idx}
+                  />
+                </th>
+              )}
+              <th onClick={() => newElementHandler(method.elements.length, true)}>+</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style={{ textAlign: 'right' }}>Units</td>
+              {method.units.map((unit, idx) =>
+                <td
+                  key={`${method.elements[idx]}-${unit}-${idx}`}>
+                  <UnitInput
+                    unit={unit}
+                    idx={idx}
+                    changeHandler={methodUnitChangeHandler}
+                  />
+                </td>
+              )}
+              <td> </td>
+            </tr>
+
+
+            <tr>
+              <td colSpan={method.elements.length}>
+
+                <h2 style={{ textAlign: 'left' }}>Check Standards</h2>
+
+              </td>
+            </tr>
+
+            {method.checkStds.map((object, index) =>
+              checkStdsArray.map(arrayToDisplay =>
+                <MethodObjectForm
+                  object={object}
+                  idx={index}
+                  nameChangeHandler={inputNameChangeHandler}
+                  numberChangeHandler={inputNumberChangeHandler}
+                  removeTypeHandler={removeTypeHandler}
+                  type='checkStds'
+                  arrayToDisplay={arrayToDisplay}
+                  key={object.name}
                 />
-              </td>
+              )
             )}
-          </tr>
 
 
-          <tr>
-            <td colSpan={method.elements.length}>
+            <tr>
+              <td colSpan={method.elements.length}>
 
-              <h2>Check Standards</h2>
+                <h2 style={{ textAlign: 'left' }}>Blanks</h2>
 
-            </td>
-          </tr>
-
-          {method.checkStds.map((object, index) =>
-            checkStdsArray.map(arrayToDisplay =>
-              <MethodObjectForm
-                object={object}
-                idx={index}
-                nameChangeHandler={inputNameChangeHandler}
-                numberChangeHandler={inputNumberChangeHandler}
-                removeTypeHandler={removeTypeHandler}
-                type='checkStds'
-                arrayToDisplay={arrayToDisplay}
-                key={object.name}
-              />
-            )
-          )}
-
-          <tr>
-            <td colSpan={method.elements.length} style={{ textAlign: 'right' }}>
-              <button onClick={addTypeHandler} name='checkStds'>
-                Add Check Standard
-                </button>
-            </td>
-          </tr>
-
-
-          <tr>
-            <td colSpan={method.elements.length}>
-
-              <h2>Blanks</h2>
-
-            </td>
-          </tr>
-
-          {method.blanks.map((blank, blankIndex) =>
-            blankArray.map(arrayToDisplay =>
-              <MethodObjectForm
-                object={blank}
-                idx={blankIndex}
-                nameChangeHandler={inputNameChangeHandler}
-                numberChangeHandler={inputNumberChangeHandler}
-                removeTypeHandler={removeTypeHandler}
-                type='blanks'
-                arrayToDisplay={arrayToDisplay}
-                key={blank.name}
-              />
-            )
-          )}
-
-
-          <tr>
-            <td colSpan={method.elements.length} style={{ textAlign: 'right' }}>
-              <button onClick={addTypeHandler} name='blanks'>
-                Add Blank
-                </button>
-            </td>
-          </tr>
-
-
-
-          <tr>
-            <td colSpan={method.elements.length}>
-
-              <h2>Reference Materials</h2>
-
-            </td>
-          </tr>
-
-          {method.referenceMaterials.map((object, index) =>
-            referenceMaterialsArray.map(arrayToDisplay =>
-              <MethodObjectForm
-                object={object}
-                idx={index}
-                nameChangeHandler={inputNameChangeHandler}
-                numberChangeHandler={inputNumberChangeHandler}
-                removeTypeHandler={removeTypeHandler}
-                type='referenceMaterials'
-                arrayToDisplay={arrayToDisplay}
-                key={`${object.name}=${arrayToDisplay}`}
-              />
-            )
-          )}
-
-          <tr>
-            <td colSpan={method.elements.length} style={{ textAlign: 'right' }}>
-              <button onClick={addTypeHandler} name='referenceMaterials'>
-                Add Reference Materials
-                </button>
-            </td>
-          </tr>
-
-
-          <tr>
-            <td> </td>
-            {method.elements.map((element, idx) =>
-              <td key={`remove-element-${element}-${idx}`}>
-                <span onClick={() => newElementHandler(idx, false)} style={{ color: 'red' }}>
-                  Remove
-                </span>
               </td>
+            </tr>
+            {method.blanks.map((blank, blankIndex) =>
+              blankArray.map(arrayToDisplay =>
+                <MethodObjectForm
+                  object={blank}
+                  idx={blankIndex}
+                  nameChangeHandler={inputNameChangeHandler}
+                  numberChangeHandler={inputNumberChangeHandler}
+                  removeTypeHandler={removeTypeHandler}
+                  type='blanks'
+                  arrayToDisplay={arrayToDisplay}
+                  key={blank.name}
+                />
+              )
             )}
-          </tr>
-        </tbody>
-      </table>
 
-      <hr />
 
-      <button type="submit" onClick={saveChanges}>Save Changes</button>
 
-    </form>
-  </div >
+            <tr>
+              <td colSpan={method.elements.length}>
+
+                <h2 style={{ textAlign: 'left' }}>Reference Materials</h2>
+
+              </td>
+            </tr>
+
+            {method.referenceMaterials.map((object, index) =>
+              referenceMaterialsArray.map(arrayToDisplay =>
+                <MethodObjectForm
+                  object={object}
+                  idx={index}
+                  nameChangeHandler={inputNameChangeHandler}
+                  numberChangeHandler={inputNumberChangeHandler}
+                  removeTypeHandler={removeTypeHandler}
+                  type='referenceMaterials'
+                  arrayToDisplay={arrayToDisplay}
+                  key={`${object.name}=${arrayToDisplay}`}
+                />
+              )
+            )}
+
+            <tr>
+              <td> </td>
+              {method.elements.map((element, idx) => {
+                if (method.elements.length < 2) {
+                  return <td key={`remove-element-${element}-${idx}`}>
+                    <button onClick={(e) => e.preventDefault()} style={{ color: 'grey' }}>
+                      Remove<br />{element}
+                    </button>
+                  </td>
+                }
+                return <td key={`remove-element-${element}-${idx}`}>
+                  <button onClick={() => newElementHandler(idx, false)} style={{ color: 'red' }}>
+                    Remove<br />{element}
+                  </button>
+                </td>
+              }
+              )}
+            </tr>
+          </tbody>
+        </table>
+
+        <hr />
+
+        <button type="submit" onClick={saveChanges}>Save Changes</button>
+
+      </form>
+    </div >
+  </div>
 }
 
 export default EditMethodForm

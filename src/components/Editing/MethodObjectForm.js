@@ -3,15 +3,18 @@ import React, { useState } from 'react'
 const NameInput = ({ object, idx, nameChangeHandler, type, arrayToDisplay }) => {
   const [value, setValue] = useState(object.name)
   return <td>
-    <input
-      id={`${type}~~${idx}`}
-      value={value}
-      onChange={(event) => setValue(event.target.value)}
-      onBlur={nameChangeHandler}
-      size="15"
-    />
+    {arrayToDisplay === 'rangesLow' ? null :
+      <input
+        type='text'
+        id={`${type}~~${idx}`}
+        value={value || ' '}
+        onChange={(event) => setValue(event.target.value)}
+        onBlur={nameChangeHandler}
+        size="15"
+      />}
     {arrayToDisplay === 'rangesHigh' ? 'High Cutoff' : null}
     {arrayToDisplay === 'rangesLow' ? 'Low Cutoff' : null}
+    {arrayToDisplay === 'LOQs' ? 'LOQs' : null}
   </td>
 }
 
@@ -19,11 +22,12 @@ const NumberInput = ({ Index, idx, object, numberChangeHandler, type, arrayToDis
   const [value, setValue] = useState(object || '')
   return <td>
     <input
+      type='text'
       id={`${type}~~${Index}~~${arrayToDisplay}~~${idx}`}
-      value={value || ''}
+      value={value || ' '}
       onChange={(event) => setValue(event.target.value)}
       onBlur={numberChangeHandler}
-      size="3"
+      size="2"
     />
   </td>
 }
@@ -35,7 +39,6 @@ const MethodObjectForm = ({ type,
   nameChangeHandler,
   numberChangeHandler,
   removeTypeHandler }) => {
-  console.log(object)
   return <tr>
     <NameInput
       idx={idx}
@@ -57,10 +60,10 @@ const MethodObjectForm = ({ type,
       />
     )}
     <td>
-      <button
+      {arrayToDisplay === 'rangesHigh' ? null : <button
         onClick={removeTypeHandler}
-        id={`${type}-${idx}`}
-      >Remove {object.name}</button>
+        id={`${type}-${idx}`}>
+        Remove {object.name}</button>}
     </td>
   </tr>
 }

@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -34,6 +36,36 @@ body {
 .firstCol {
   text-align: left !important;
   min-width: 175px !important;
+}
+
+.editMethodTable {
+  border: 0;
+  border-spacing: 0;
+  margin-bottom: 30px;
+}
+
+.editMethodTable button {
+  white-space: nowrap;
+  padding: 3px 2px;
+}
+
+.editMethodTable input[type='text'] {
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  padding: 4px;
+  font-size: 0.8rem;
+}
+
+.editMethodTable td, .editMethodTable th {
+  min-width: 70px;
+  border: 0px solid black;
+  padding: 0;
+  margin: 0;
+}
+
+.editMethodTable td:nth-child(1) {
+  min-width: 250px;
+  text-align: right;
 }
 
 .calTable, .sampleTable, .blankTable, .RMTable, .methodTable {
