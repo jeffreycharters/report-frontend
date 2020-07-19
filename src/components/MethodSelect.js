@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useParams, useHistory } from 'react-router-dom'
 
 import Method from './Method'
 import FileSelector from './FileSelector'
@@ -7,6 +7,7 @@ import FileSelector from './FileSelector'
 const MethodSelect = ({ error, method, methods, setData, setError, setMethod }) => {
 
   const nameFromUrl = useParams().name
+  const history = useHistory()
   useEffect(() => {
     if (nameFromUrl && methods) {
       setMethod(methods.find(m => m.name === nameFromUrl))
@@ -30,6 +31,7 @@ const MethodSelect = ({ error, method, methods, setData, setError, setMethod }) 
       }
 
       <Link to='/' className='methodButton' onClick={() => setMethod()}>Clear</Link>
+      {method && <><br /><br /><button onClick={() => history.push(`/edit/${method.name}`)} className='methodButton'>Edit {method.name}</button></>}
 
       {method && (<div>
         <FileSelector setError={setError} method={method} setData={setData} />
