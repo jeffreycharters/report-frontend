@@ -4,7 +4,7 @@ import dataUtils from '../../utils/dataUtils'
 const CheckStd = ({ data, checkStd, method }) => {
 
   const expectedValues = checkStd.expectedValues
-  const tolerance = checkStd.tolerance
+  const tolerance = method.checkStdTolerance
   const sigFigs = method.sigFigs
 
   return (
