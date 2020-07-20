@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import SingleInput from './SingleInput'
 import UnitInput from './UnitInput'
 import MethodObjectForm from './MethodObjectForm'
+import ElementHeader from './ElementHeader'
 
 const aMethod = {
   name: "CHEM-162",
@@ -186,29 +187,51 @@ const EditMethodForm = () => {
 
   const padding = {
     margin: '3px',
-    padding: '5px'
+    padding: '3px'
   }
+
+  const smallInput = {
+    textAlign: 'center',
+    border: '1px solid lightgrey',
+    borderRadius: '6px',
+    margin: '5px 0 5px 5px'
+  }
+
 
   return <div className='centeredContainerParent' style={{ maxWidth: '98%' }}>
     <div className='centeredContainerChild' style={{ textAlign: 'left', paddingTop: '15px' }}>
       <form>
-        <label htmlFor="name">Method Name</label>
-        <input type="text"
-          name="name"
-          value={method.name}
-          onChange={methodChangeHandler}
-          size="15"
-        />
 
-        <br />
+        <h1 style={{
+          textAlign: 'center',
+          border: '2px solid grey',
+          padding: '5px',
+          borderRadius: '6px',
+        }}>
+          Editing {method.name}
+        </h1>
 
-        <label htmlFor="description">Method Description</label>
-        <input type="text"
-          name="description"
-          value={method.description}
-          onChange={methodChangeHandler}
-          size="75"
-        />
+        <div className='editTitles'>
+
+          <label htmlFor="name">Method Name<br /></label>
+          <input type="text"
+            name="name"
+            value={method.name}
+            onChange={methodChangeHandler}
+            size="15"
+          />
+
+          <br />
+
+          <label htmlFor="description">Method Description<br /></label>
+          <input type="text"
+            name="description"
+            value={method.description}
+            onChange={methodChangeHandler}
+            size="70"
+          />
+
+        </div>
 
         <br />
 
@@ -218,6 +241,7 @@ const EditMethodForm = () => {
           value={method.sigFigs}
           onChange={methodChangeHandler}
           size="1"
+          style={smallInput}
         />
 
         <br />
@@ -231,6 +255,7 @@ const EditMethodForm = () => {
             methodChangeHandler(e)
           }}
           size="1"
+          style={smallInput}
         />%
 
 
@@ -242,27 +267,31 @@ const EditMethodForm = () => {
           value={method.duplicateTolerance}
           onChange={methodChangeHandler}
           size="1"
+          style={smallInput}
         />%
 
-        <h2>Add Something:</h2>
+        <div style={{ textAlign: 'right' }}>
+          <h2>Add Something:</h2>
 
-        <button onClick={addTypeHandler} name='checkStds' style={padding}>
-          Add Check Standard
+          <button onClick={addTypeHandler} name='checkStds' style={padding}>
+            Add Check Standard
                 </button>
-        <button onClick={addTypeHandler} name='blanks' style={padding}>
-          Add Blank
+          <button onClick={addTypeHandler} name='blanks' style={padding}>
+            Add Blank
                 </button>
-        <button onClick={addTypeHandler} name='referenceMaterials' style={padding}>
-          Add Reference Material
+          <button onClick={addTypeHandler} name='referenceMaterials' style={padding}>
+            Add Reference Material
                 </button>
+        </div>
+        <hr />
 
 
-        <h2>Elements</h2>
-
-        <table cellSpacing='0' className='editMethodTable' style={{ borderCollapse: 'collapse', textAlign: 'center', maxWidth: '100%' }}>
+        <table
+          cellSpacing='0'
+          className='editMethodTable'>
           <thead>
             <tr>
-              <th style={{ textAlign: 'left' }}>Name</th>
+              <th style={{ textAlign: 'left' }}><h2>Elements</h2></th>
               {method.elements.map((element, idx) =>
                 <th key={`${element}-${idx}`}>
                   <SingleInput
@@ -274,7 +303,16 @@ const EditMethodForm = () => {
                   />
                 </th>
               )}
-              <th onClick={() => newElementHandler(method.elements.length, true)}>+</th>
+              <td
+                onClick={() => newElementHandler(method.elements.length, true)}
+                style={{
+                  textAlign: 'left',
+                  fontSize: '0.55rem',
+                  fontWeight: 'bold',
+                  cursor: 'pointer'
+                }}>
+                +
+                    </td>
             </tr>
           </thead>
           <tbody>
@@ -293,14 +331,7 @@ const EditMethodForm = () => {
               <td> </td>
             </tr>
 
-
-            <tr>
-              <td colSpan={method.elements.length}>
-
-                <h2 style={{ textAlign: 'left' }}>Check Standards</h2>
-
-              </td>
-            </tr>
+            <ElementHeader elements={method.elements} title='Check Standards' />
 
             {method.checkStds.map((object, index) =>
               checkStdsArray.map(arrayToDisplay =>
@@ -317,14 +348,8 @@ const EditMethodForm = () => {
               )
             )}
 
+            <ElementHeader elements={method.elements} title='Blanks' />
 
-            <tr>
-              <td colSpan={method.elements.length}>
-
-                <h2 style={{ textAlign: 'left' }}>Blanks</h2>
-
-              </td>
-            </tr>
             {method.blanks.map((blank, blankIndex) =>
               blankArray.map(arrayToDisplay =>
                 <MethodObjectForm
@@ -340,15 +365,7 @@ const EditMethodForm = () => {
               )
             )}
 
-
-
-            <tr>
-              <td colSpan={method.elements.length}>
-
-                <h2 style={{ textAlign: 'left' }}>Reference Materials</h2>
-
-              </td>
-            </tr>
+            <ElementHeader elements={method.elements} title='Reference Materials' />
 
             {method.referenceMaterials.map((object, index) =>
               referenceMaterialsArray.map(arrayToDisplay =>
@@ -366,6 +383,11 @@ const EditMethodForm = () => {
             )}
 
             <tr>
+              <td colSpan={method.elements.length + 2}>
+                <hr /><br />
+              </td>
+            </tr>
+            <tr>
               <td> </td>
               {method.elements.map((element, idx) => {
                 if (method.elements.length < 2) {
@@ -382,17 +404,27 @@ const EditMethodForm = () => {
                 </td>
               }
               )}
+              <td> </td>
             </tr>
           </tbody>
         </table>
 
         <hr />
 
-        <button type="submit" onClick={saveChanges}>Save Changes</button>
+        <div style={{ textAlign: 'right' }}>
+          <button
+            type="submit"
+            onClick={saveChanges}
+            style={{ margin: '15px', padding: '3px' }}
+          >
+            Save Changes
+          </button>
+
+        </div>
 
       </form>
     </div >
-  </div>
+  </div >
 }
 
 export default EditMethodForm

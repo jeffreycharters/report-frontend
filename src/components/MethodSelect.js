@@ -22,9 +22,7 @@ const MethodSelect = ({ error, method, methods, setData, setError, setMethod }) 
     <div>
       <h1 style={{ textAlign: 'center' }}>JCQC Reporting Application</h1>
       {error && <span style={{ color: 'red' }}>Error: {error}</span>}
-      <hr style={{ width: '36rem' }} />
-    </div>
-    <div style={{ padding: '15px 2px' }}>
+      <hr style={{ width: '36rem', marginBottom: '1rem' }} />
       {methods.map(m => {
         return <span key={m.name}><Link to={`/${m.name}`} className='methodButton' onClick={() => setMethod(m)}>{m.name}</Link>{' '}</span>
       })

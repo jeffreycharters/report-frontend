@@ -1,7 +1,5 @@
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 body {
@@ -29,44 +27,15 @@ body {
   width: 95px !important;
 }
 
+.centeredText {
+  text-align: center;
+}
+
 .colouredRow {
   background-color: gainsboro;
 }
 
-.firstCol {
-  text-align: left !important;
-  min-width: 175px !important;
-}
 
-.editMethodTable {
-  border: 0;
-  border-spacing: 0;
-  margin-bottom: 30px;
-}
-
-.editMethodTable button {
-  white-space: nowrap;
-  padding: 3px 2px;
-}
-
-.editMethodTable input[type='text'] {
-  border: 1px solid gainsboro;
-  border-radius: 5px;
-  padding: 4px;
-  font-size: 0.8rem;
-}
-
-.editMethodTable td, .editMethodTable th {
-  min-width: 70px;
-  border: 0px solid black;
-  padding: 0;
-  margin: 0;
-}
-
-.editMethodTable td:nth-child(1) {
-  min-width: 250px;
-  text-align: right;
-}
 
 .calTable, .sampleTable, .blankTable, .RMTable, .methodTable {
   border-collapse: collapse;
@@ -86,9 +55,65 @@ body {
   padding: 3px 3px;
 }
 
+.editMethodTable {
+  border: 0;
+  border-spacing: 0;
+  margin-bottom: 30px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.editMethodTable button {
+  white-space: nowrap;
+  padding: 3px 2px;
+}
+
+.editMethodTable input[type='text'], .editTitles input[type='text'] {
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  padding: 4px;
+  font-size: 0.8rem;
+  text-align: center;
+  max-width: 600px;
+}
+
+.editMethodTable td, .editMethodTable th {
+  white-space: nowrap;
+  border: 0px solid black;
+  padding: 0;
+  margin: 0;
+}
+
+.editMethodTable td:nth-child(1) {
+  min-width: 230px;
+  text-align: right;
+}
+
+.editTitles input[type='text'] {
+  font-size: 1.2rem;
+  word-wrap: nowrap;
+}
+
+
+.firstCol {
+  text-align: left !important;
+  min-width: 175px !important;
+}
+
+.greyTopBorder {
+  border-top: 1px solid lightgrey;
+}
+
 .headerItem {
   font-weight: bold;
   padding: 10px;
+}
+
+.insertSpan {
+  margin: 0;
+  padding: 0;
+  font-size: 0.55rem;
+  cursor: pointer;
 }
 
 .methodButton {

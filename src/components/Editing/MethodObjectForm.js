@@ -27,7 +27,7 @@ const NumberInput = ({ Index, idx, object, numberChangeHandler, type, arrayToDis
       value={value || ' '}
       onChange={(event) => setValue(event.target.value)}
       onBlur={numberChangeHandler}
-      size="2"
+      size="3"
     />
   </td>
 }
@@ -39,6 +39,7 @@ const MethodObjectForm = ({ type,
   nameChangeHandler,
   numberChangeHandler,
   removeTypeHandler }) => {
+
   return <tr>
     <NameInput
       idx={idx}
