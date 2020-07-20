@@ -12,10 +12,10 @@ const EditMethodForm = () => {
   const methodName = useParams().name
   const history = useHistory()
 
-  const baseUrl = 'http://localhost:3001'
+  const baseUrl = '/api'
 
   useEffect(() => {
-    axios.get(`${baseUrl}/api/methods`)
+    axios.get(`${baseUrl}/methods`)
       .then(response => {
         setMethod(response.data.find(m => m.name === methodName))
       })
